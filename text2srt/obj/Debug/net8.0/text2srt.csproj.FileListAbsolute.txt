@@ -1,0 +1,14 @@
+C:\Users\mkris\source\repos\text2srt\text2srt\bin\Debug\net8.0\text2srt.exe
+C:\Users\mkris\source\repos\text2srt\text2srt\bin\Debug\net8.0\text2srt.deps.json
+C:\Users\mkris\source\repos\text2srt\text2srt\bin\Debug\net8.0\text2srt.runtimeconfig.json
+C:\Users\mkris\source\repos\text2srt\text2srt\bin\Debug\net8.0\text2srt.dll
+C:\Users\mkris\source\repos\text2srt\text2srt\bin\Debug\net8.0\text2srt.pdb
+C:\Users\mkris\source\repos\text2srt\text2srt\obj\Debug\net8.0\text2srt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkris\source\repos\text2srt\text2srt\obj\Debug\net8.0\text2srt.AssemblyInfoInputs.cache
+C:\Users\mkris\source\repos\text2srt\text2srt\obj\Debug\net8.0\text2srt.AssemblyInfo.cs
+C:\Users\mkris\source\repos\text2srt\text2srt\obj\Debug\net8.0\text2srt.csproj.CoreCompileInputs.cache
+C:\Users\mkris\source\repos\text2srt\text2srt\obj\Debug\net8.0\text2srt.dll
+C:\Users\mkris\source\repos\text2srt\text2srt\obj\Debug\net8.0\refint\text2srt.dll
+C:\Users\mkris\source\repos\text2srt\text2srt\obj\Debug\net8.0\text2srt.pdb
+C:\Users\mkris\source\repos\text2srt\text2srt\obj\Debug\net8.0\text2srt.genruntimeconfig.cache
+C:\Users\mkris\source\repos\text2srt\text2srt\obj\Debug\net8.0\ref\text2srt.dll
