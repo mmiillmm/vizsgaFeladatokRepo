@@ -1,0 +1,14 @@
+﻿<Window x:Class="LaptopsGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LaptopsGUI"
+        mc:Ignorable="d"
+        Title="Laptop ajánlat" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="laptopListBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,87,332,10"/>
+        <TextBox x:Name="LaptopTextBox" HorizontalAlignment="Left" Margin="494,87,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="268" Height="272"/>
+
+    </Grid>
+</Window>
