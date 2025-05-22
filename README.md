@@ -1,44 +1,112 @@
-# Haiii!
 
-Ha gyakorolsz a feladatokra, vagy szeretnéd a gyakorló feladatok megoldását akkor kérlek használd ezt a repot. Ha pedig van olyan feladat amit te megoldottál, de nem látod itt, kérlek készíts egy új branchet és töltsd fel oda!
+#  Haiii! 👋
 
+  
 
-# Feladatok feltöltése
+Ha gyakorolsz a feladatokra, vagy szeretnéd a gyakorló feladatok megoldását, akkor kérlek használd ezt a repót.
 
-Ha valaki nem tudná hogy hogy kell, itt egy step-by-step tutorial git bash használatával.
+Ha pedig van olyan feladat, amit te megoldottál, de nem látod itt, kérlek készíts egy új branchet és töltsd fel oda!
+  
+##  Feladatok feltöltése
 
-## 1. Repo clone (hogy up-to-date legyen a lokális verzió)
+Ha valaki nem tudná, hogy hogyan kell, itt egy step-by-step tutorial **Git Bash** használatával:
+  
+###  1. Repo klónozása (hogy up-to-date legyen a lokális verzió)
+  
+```bash
+git  clone  https://github.com/mmiillmm/vizsgaFeladatokRepo.git
+cd  vizsgaFeladatokRepo
+```
+  
+---
+  
+###  2. Új üres branch létrehozása
+  
+```bash
+git  checkout  --orphan  branch-nev
+```
+  
+**Példa:**
+  
+```bash
+git  checkout  --orphan  feladat-random
+```
+  
+---
+  
+###  3. Létező fájlok törlése (nem kötelező)
+  
+```bash
+rm  -rf  *
+```
+  
+---
+  
+###  4. Saját fájlok bemásolása a repo mappájába
+  
+```bash
+cp  -r  /lemez/Felhasználók/neved/tefeladatmappád/*  .
+```
+  
+---
+  
+###  5. Fájlok stagelése és commitolása
+  
+```bash
+git  add  .
+git  commit  -m  "Commit üzenet"
+```
+  
+---
 
-```git clone https://github.com/mmiillmm/vizsgaFeladatokRepo.git```
+###  6. Feltöltés GitHubra
 
-```cd vizsgaFeladatokRepo```
+```bash
+git  push  -u  origin  branch-nev
+```
 
-## 2.  Új üres branch
+---
 
-```git checkout --orphan branch-nev```
+## Feladatok letöltése (minden branch külön mappába)
 
-Például:
+###  1. Repo URL beállítása
 
-```git checkout --orphan feladat-random```
+```bash
+REPO_URL="https://github.com/mmiillmm/vizsgaFeladatokRepo.git"
+```
 
-## 3. Létező fájlok törlése (nem muszáj)
+---
 
-```rm -rf *```
+###  2. Szülőmappa elnevezése
 
-## 4. Saját fájlok másolása a mappába
+```bash
+PARENT_DIR="mappanev"
+```
 
-```cp -r  /lemez/Felhasználók/neved/tefeladatmappád/* .```
+---
 
+###  3. Szülőmappa létrehozása
 
+```bash
+mkdir  -p  "$PARENT_DIR"
+```
 
-## 5. Stagelés és commitolás
+---
 
-```git add .```
-```git commit -m "Commit üzenet"```
+###  4. Remote branchek listázása
 
-## 6. Pusholás GitHubra
+```bash
+BRANCHES=$(git  ls-remote  --heads  $REPO_URL  |  awk  '{print $2}'  |  sed  's|refs/heads/||')
+```
 
-```git push -u origin branch-nev```
+---
 
+###  5. Összes branch klónozása külön mappákba
 
-# :3
+  
+
+```bash
+for  BRANCH  in  $BRANCHES;  do
+	git  clone  --single-branch  --branch  "$BRANCH"  "$REPO_URL"  "$PARENT_DIR/$BRANCH"
+done
+```
