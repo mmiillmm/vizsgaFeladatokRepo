@@ -1,0 +1,14 @@
+C:\Users\mkris\source\repos\appsCLI\appsCLI\bin\Debug\net8.0\appsCLI.exe
+C:\Users\mkris\source\repos\appsCLI\appsCLI\bin\Debug\net8.0\appsCLI.deps.json
+C:\Users\mkris\source\repos\appsCLI\appsCLI\bin\Debug\net8.0\appsCLI.runtimeconfig.json
+C:\Users\mkris\source\repos\appsCLI\appsCLI\bin\Debug\net8.0\appsCLI.dll
+C:\Users\mkris\source\repos\appsCLI\appsCLI\bin\Debug\net8.0\appsCLI.pdb
+C:\Users\mkris\source\repos\appsCLI\appsCLI\obj\Debug\net8.0\appsCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkris\source\repos\appsCLI\appsCLI\obj\Debug\net8.0\appsCLI.AssemblyInfoInputs.cache
+C:\Users\mkris\source\repos\appsCLI\appsCLI\obj\Debug\net8.0\appsCLI.AssemblyInfo.cs
+C:\Users\mkris\source\repos\appsCLI\appsCLI\obj\Debug\net8.0\appsCLI.csproj.CoreCompileInputs.cache
+C:\Users\mkris\source\repos\appsCLI\appsCLI\obj\Debug\net8.0\appsCLI.dll
+C:\Users\mkris\source\repos\appsCLI\appsCLI\obj\Debug\net8.0\refint\appsCLI.dll
+C:\Users\mkris\source\repos\appsCLI\appsCLI\obj\Debug\net8.0\appsCLI.pdb
+C:\Users\mkris\source\repos\appsCLI\appsCLI\obj\Debug\net8.0\appsCLI.genruntimeconfig.cache
+C:\Users\mkris\source\repos\appsCLI\appsCLI\obj\Debug\net8.0\ref\appsCLI.dll
