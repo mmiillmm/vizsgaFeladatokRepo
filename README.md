@@ -1,5 +1,5 @@
 
-#  Haiii! 👋
+#  Haiii!
 
   
 
@@ -7,7 +7,7 @@ Ha gyakorolsz a feladatokra, vagy szeretnéd a gyakorló feladatok megoldását,
 
 Ha pedig van olyan feladat, amit te megoldottál, de nem látod itt, kérlek készíts egy új branchet és töltsd fel oda!
   
-##  Feladatok feltöltése
+#  Feladatok feltöltése
 
 Ha valaki nem tudná, hogy hogyan kell, itt egy step-by-step tutorial **Git Bash** használatával:
   
@@ -67,7 +67,7 @@ git  push  -u  origin  branch-nev
 
 ---
 
-## Feladatok letöltése (minden branch külön mappába)
+# Feladatok letöltése (minden branch külön mappába)
 
 ###  1. Repo URL beállítása
 
