@@ -1,0 +1,15 @@
+C:\Users\mkris\source\repos\LaptopsCLI\LaptopsCLI\bin\Debug\net8.0\LaptopsCLI.exe
+C:\Users\mkris\source\repos\LaptopsCLI\LaptopsCLI\bin\Debug\net8.0\LaptopsCLI.deps.json
+C:\Users\mkris\source\repos\LaptopsCLI\LaptopsCLI\bin\Debug\net8.0\LaptopsCLI.runtimeconfig.json
+C:\Users\mkris\source\repos\LaptopsCLI\LaptopsCLI\bin\Debug\net8.0\LaptopsCLI.dll
+C:\Users\mkris\source\repos\LaptopsCLI\LaptopsCLI\bin\Debug\net8.0\LaptopsCLI.pdb
+C:\Users\mkris\source\repos\LaptopsCLI\LaptopsCLI\obj\Debug\net8.0\LaptopsCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkris\source\repos\LaptopsCLI\LaptopsCLI\obj\Debug\net8.0\LaptopsCLI.AssemblyInfoInputs.cache
+C:\Users\mkris\source\repos\LaptopsCLI\LaptopsCLI\obj\Debug\net8.0\LaptopsCLI.AssemblyInfo.cs
+C:\Users\mkris\source\repos\LaptopsCLI\LaptopsCLI\obj\Debug\net8.0\LaptopsCLI.csproj.CoreCompileInputs.cache
+C:\Users\mkris\source\repos\LaptopsCLI\LaptopsCLI\obj\Debug\net8.0\LaptopsCLI.dll
+C:\Users\mkris\source\repos\LaptopsCLI\LaptopsCLI\obj\Debug\net8.0\refint\LaptopsCLI.dll
+C:\Users\mkris\source\repos\LaptopsCLI\LaptopsCLI\obj\Debug\net8.0\LaptopsCLI.pdb
+C:\Users\mkris\source\repos\LaptopsCLI\LaptopsCLI\obj\Debug\net8.0\LaptopsCLI.genruntimeconfig.cache
+C:\Users\mkris\source\repos\LaptopsCLI\LaptopsCLI\obj\Debug\net8.0\ref\LaptopsCLI.dll
+C:\Users\mkris\source\repos\LaptopsCLI\LaptopsCLI\obj\Debug\net8.0\LaptopsCLI.sourcelink.json

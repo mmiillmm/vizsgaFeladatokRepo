@@ -1,0 +1,100 @@
+﻿Lenovo Legion Y520-15IKBN
+Intel Core i5 7300HQ 2.5GHz
+1TB HDD
+15.6 col - IPS Panel Full HD 1920x1080
+
+MSI PL60 7RD
+Intel Core i7 7500U 2.7GHz
+1TB HDD
+15.6 col - IPS Panel Full HD 1920x1080
+
+HP Pavilion 15-cb003nv
+Intel Core i7 7700HQ 2.8GHz
+1TB HDD
+15.6 col - IPS Panel Full HD 1920x1080
+
+Asus Rog GL552VW-DM201T
+Intel Core i7 6700HQ 2.6GHz
+256GB SSD +  1TB HDD
+15.6 col - IPS Panel Full HD 1920x1080
+
+Dell Inspiron 7567
+Intel Core i5 7300HQ 2.5GHz
+1TB Hybrid
+15.6 col - Full HD 1920x1080
+
+Lenovo Legion Y520-15IKBN
+Intel Core i5 7300HQ 2.5GHz
+128GB SSD +  1TB HDD
+15.6 col - IPS Panel Full HD 1920x1080
+
+Asus Rog G752VL-GC088D
+Intel Core i7 6700HQ 2.6GHz
+1TB HDD
+17.3 col - IPS Panel Full HD 1920x1080
+
+Lenovo IdeaPad Y700-15ISK
+Intel Core i7 6700HQ 2.6GHz
+128GB SSD +  1TB HDD
+15.6 col - IPS Panel Full HD / Touchscreen 1920x1080
+
+HP Omen -
+Intel Core i5 6300HQ 2.3GHz
+128GB SSD +  1TB HDD
+17.3 col - IPS Panel Full HD 1920x1080
+
+MSI GP62M 7RDX
+Intel Core i7 7700HQ 2.8GHz
+128GB SSD +  1TB HDD
+15.6 col - Full HD 1920x1080
+
+MSI GL62M 7RDX
+Intel Core i7 7700HQ 2.8GHz
+128GB SSD +  1TB HDD
+15.6 col - Full HD 1920x1080
+
+Asus FX502VM-DM105T (i7-6700HQ/8GB/1TB/GeForce
+Intel Core i7 6700HQ 2.6GHz
+1TB HDD
+15.6 col - Full HD 1920x1080
+
+MSI GL62 6QF
+Intel Core i7 6700HQ 2.6GHz
+128GB SSD +  1TB HDD
+15.6 col - Full HD 1920x1080
+
+Lenovo Legion Y520-15IKBN
+Intel Core i7 7700HQ 2.8GHz
+128GB SSD +  1TB HDD
+15.6 col - IPS Panel Full HD 1920x1080
+
+MSI GL72M 7RDX
+Intel Core i7 7700HQ 2.8GHz
+128GB SSD +  1TB HDD
+17.3 col - Full HD 1920x1080
+
+Lenovo Legion Y520-15IKBN
+Intel Core i7 7700HQ 2.8GHz
+512GB SSD
+15.6 col - Full HD 1920x1080
+
+Dell Inspiron 7567
+Intel Core i7 7700HQ 2.8GHz
+1TB HDD
+15.6 col - Full HD 1920x1080
+
+MSI GE62 Apache
+Intel Core i7 6700HQ 2.6GHz
+128GB SSD +  1TB HDD
+15.6 col - Full HD 1920x1080
+
+Acer Nitro 5
+Intel Core i7 7700HQ 2.8GHz
+128GB SSD +  1TB HDD
+15.6 col - IPS Panel Full HD 1920x1080
+
+Lenovo IdeaPad Y700-15ISK
+Intel Core i7 6700HQ 2.6GHz
+128GB SSD +  1TB HDD
+15.6 col - IPS Panel Full HD 1920x1080
+

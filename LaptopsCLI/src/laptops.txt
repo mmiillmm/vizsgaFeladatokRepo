@@ -1,0 +1,326 @@
+CategoryCode;CategoryName;CPU;ManufacturerCode;ManufacturerName;Model;OS;Price;RAM;Screen;Storage
+4;Notebook;Intel Core i7 7500U 2.7GHz;6;HP;15-bs053od (i7-7500U/6GB/1TB/W10);Windows 10;24240,70359;6;15.6 col - 1366x768;1TB HDD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;3;Asus;Rog GL753VE-DS74;Windows 10;73224,5085;16;17.3 col - Full HD 1920x1080;256GB SSD +  1TB HDD
+1;2 in 1 Convertible;Intel Core i7 7500U 2.7GHz;5;Dell;Inspiron 7579;Windows 10;54384,5835;12;15.6 col - IPS Panel Full HD / Touchscreen 1920x1080;512GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;12;Toshiba;Portege Z30-C-1CV;Windows 7;50030,4675;4;13.3 col - Full HD 1920x1080;128GB SSD
+4;Notebook;AMD A12-Series 9720P 3.6GHz;7;Lenovo;IdeaPad 320-15ABR;Windows 10;22984,7085;6;15.6 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;5;Fujitsu;LifeBook A556;Windows 10;27171,3585;4;15.6 col - 1366x768;256GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;11;Toshiba;Tecra A40-C-1KF;Windows 10;38307,8475;4;14.0 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i5 7200U 2.5GHz;4;Dell;Inspiron 3567;Windows 10;25078,0335;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;Probook 450;Windows 10;33744,399;8;15.6 col - Full HD 1920x1080;1TB HDD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;7;Lenovo;Legion Y520-15IKBN;Windows 10;49779,2685;8;15.6 col - IPS Panel Full HD 1920x1080;128GB SSD +  1TB HDD
+4;Notebook;Intel Core i7 7500U 2.7GHz;4;Dell;Inspiron 5567;Windows 10;31358,0085;8;15.6 col - 1366x768;1TB HDD
+4;Notebook;Intel Core i5 7200U 2.5GHz;4;Dell;Latitude 5480;Windows 10;46848,6135;8;14.0 col - Full HD 1920x1080;128GB SSD
+3;Netbook;Intel Core M 6Y75 1.2GHz;6;HP;EliteBook Folio;Windows 10;79881,282;8;12.5 col - Full HD 1920x1080;512GB SSD
+4;Notebook;Intel Core i3 6006U 2GHz;6;HP;15-bs005nv (i3-6006U/4GB/1TB;Windows 10;20891,3835;4;15.6 col - Full HD 1920x1080;128GB SSD +  1TB HDD
+4;Notebook;Intel Celeron Dual Core N3350 1.1GHz;7;Lenovo;V110-15IAP (N3350/4GB/128GB/No;No OS ;11329,91223;4;15.6 col - 1366x768;128GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;7;Lenovo;ThinkPad T560;Windows 10;56477,9085;8;15.6 col - Full HD 1920x1080;256GB SSD
+1;2 in 1 Convertible;Intel Core i5 7200U 2.5GHz;4;Dell;Inspiron 5378;Windows 10;37219,3185;8;13.3 col - Full HD / Touchscreen 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;3;Asus;ZenBook UX310UA-FB485T;Windows 10;48146,475;8;13.3 col - Quad HD+ 3200x1800;256GB SSD
+5;Ultrabook;Intel Core i7 7500U 2.7GHz;6;HP;Spectre 13-V111dx;Windows 10;56477,9085;8;13.3 col - IPS Panel Full HD / Touchscreen 1920x1080;256GB SSD
+4;Notebook;Intel Pentium Quad Core N4200 1.1GHz;1;Acer;Aspire ES1-533;Windows 10;15909,27;4;15.6 col - 1366x768;500GB HDD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;3;Asus;Rog GL553VE-DS74;Windows 10;75317,8335;16;15.6 col - Full HD 1920x1080;256GB SSD +  1TB HDD
+5;Ultrabook;Intel Core i7 7500U 2.7GHz;6;HP;EliteBook 840;Windows 10;87459,1185;8;14.0 col - Full HD 1920x1080;512GB SSD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;1;Acer;Nitro 5;Windows 10;52751,79;8;15.6 col - IPS Panel Full HD 1920x1080;128GB SSD +  1TB HDD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;ENVY -;Windows 10;49779,2685;8;13.3 col - IPS Panel Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i3 7100U 2.4GHz;4;Dell;Vostro 3568;Windows 10;22900,9755;4;15.6 col - 1366x768;128GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;Probook 440;Windows 10;32614,0035;4;14.0 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i5 6200U 2.3GHz;11;Toshiba;Portege Z30-C-16H;Windows 10;50030,4675;4;13.3 col - Full HD 1920x1080;128GB SSD
+4;Notebook;Intel Core i5 6300U 2.4GHz;6;HP;EliteBook 840;Windows 10;46052,73134;4;14.0 col - 1366x768;256GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;ProBook 640;Windows 10;50449,1325;4;14.0 col - Full HD 1920x1080;256GB SSD
+5;Ultrabook;Intel Core i7 6600U 2.6GHz;6;HP;EliteBook 1040;Windows 7;60664,5585;8;14.0 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;ProBook 440;Windows 10;43928,84379;8;14.0 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i3 7100U 2.4GHz;6;HP;Probook 440;Windows 10;28636,686;4;14.0 col - 1366x768;500GB HDD
+2;Gaming;Intel Core i5 7300HQ 2.5GHz;4;Dell;Inspiron 7567;Windows 10;39731,3085;8;15.6 col - Full HD 1920x1080;1TB Hybrid
+5;Ultrabook;Intel Core i5 7200U 2.5GHz;6;HP;EliteBook 820;Windows 10;64432,5435;4;12.5 col - Full HD 1920x1080;500GB HDD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;Elitebook 840;Windows 10;66567,735;4;14.0 col - Full HD 1920x1080;256GB SSD
+5;Ultrabook;Intel Core i7 6500U 2.5GHz;6;HP;EliteBook 840;Windows 10;79010,87747;8;14.0 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i3 7100U 2.4GHz;6;HP;Probook 430;Windows 10;33493,2;4;13.3 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i5 6200U 2.3GHz;11;Toshiba;Portege A30-C-1CZ;Windows 10;50658,465;8;13.3 col - 1366x768;256GB SSD
+4;Notebook;Intel Core i3 7100U 2.4GHz;6;HP;ProBook 450;Windows 10;32236,78634;4;15.6 col - 1366x768;256GB SSD
+4;Notebook;Intel Core i7 6820HQ 2.7GHz;7;Lenovo;ThinkPad P70;Windows 7;124259,772;16;17.3 col - IPS Panel 4K Ultra HD 3840x2160;512GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;11;Toshiba;Tecra Z40-C-12Z;Windows 10;62381,085;8;14.0 col - IPS Panel Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i7 6500U 2.5GHz;6;HP;EliteBook 1040;Windows 10;93320,4285;8;14.0 col - Full HD 1920x1080;256GB SSD
+1;2 in 1 Convertible;Intel Core i3 6100U 2.3GHz;4;Dell;Inspiron 5568;Windows 10;33325,31534;4;15.6 col - IPS Panel Full HD / Touchscreen 1920x1080;1TB HDD
+5;Ultrabook;Intel Core i5 6200U 2.3GHz;11;Toshiba;PortÄ†?gÄ†? Z30-C-16K;Windows 10;66567,735;8;13.3 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;Spectre 13-V100nv;Windows 10;48104,6085;8;13.3 col - IPS Panel Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i7 7500U 2.7GHz;6;HP;ProBook 440;Windows 10;49629,8051;8;14.0 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 6300U 2.4GHz;4;Dell;Latitude E5570;Windows 10;43810,78026;8;15.6 col - Full HD 1920x1080;500GB HDD
+5;Ultrabook;Intel Core i5 7200U 2.5GHz;6;HP;Elitebook 820;Windows 10;65269,8735;4;12.5 col - 1366x768;256GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;ProBook 650;Windows 10;49779,2685;4;14.0 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;ProBook 640;Windows 10;44378,49;4;14.0 col - 1366x768;500GB HDD
+5;Ultrabook;Intel Core i5 7200U 2.5GHz;4;Dell;XPS 13;Windows 10;67991,196;8;13.3 col - Quad HD+ / Touchscreen 3200x1800;256GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;Probook 470;Windows 10;45215,82;8;17.3 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;ProBook 440;Windows 10;40736,1045;4;14.0 col - 1366x768;256GB SSD
+4;Notebook;AMD A9-Series 9420 3GHz;1;Acer;Aspire 3;Windows 10;17123,3985;6;15.6 col - 1366x768;1TB HDD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;8;MSI;GL72M 7RDX;Windows 10;49896,4947;8;17.3 col - Full HD 1920x1080;128GB SSD +  1TB HDD
+4;Notebook;Intel Core i5 6200U 2.3GHz;6;HP;Probook 640;Windows 7;50030,4675;8;14.0 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i7 6500U 2.5GHz;6;HP;EliteBook 850;Windows 10;51453,50984;8;15.6 col - Full HD 1920x1080;256GB SSD
+5;Ultrabook;Intel Core i7 6500U 2.5GHz;6;HP;EliteBook 820;Windows 10;56477,9085;8;12.5 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;ProBook 450;Windows 10;31064,943;4;15.6 col - 1366x768;500GB HDD
+5;Ultrabook;Intel Core i7 6600U 2.6GHz;11;Toshiba;Tecra Z40-C-136;Windows 10;72219,7125;8;14.0 col - IPS Panel Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 6300U 2.4GHz;4;Dell;Latitude E5570;Windows 7;44501,99618;8;15.6 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;ProBook 440;Windows 10;42306,51692;8;14.0 col - Full HD 1920x1080;256GB SSD
+1;2 in 1 Convertible;Intel Core i7 6500U 2.5GHz;7;Lenovo;Yoga 500-15ISK;Windows 10;35460,9255;4;15.6 col - IPS Panel Full HD / Touchscreen 1920x1080;256GB SSD
+4;Notebook;Intel Atom X5-Z8350 1.44GHz;12;Vero;V142 (X5-Z8350/2GB/32GB/W10);Windows 10;8825,4582;2;14.0 col - 1366x768;32GB Flash Storage
+4;Notebook;Intel Core i7 6500U 2.5GHz;11;Toshiba;Tecra A50-C-218;Windows 10;59659,7625;16;15.6 col - IPS Panel Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;7;Lenovo;Thinkpad L560;Windows 10;43943,0784;8;15.6 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;6;HP;EliteBook 840;Windows 10;41866,5;4;14.0 col - Full HD 1920x1080;500GB HDD
+4;Notebook;Intel Core i5 6300U 2.4GHz;6;HP;EliteBook 850;Windows 10;88059,48411;8;15.6 col - Full HD 1920x1080;256GB SSD +  500GB HDD
+4;Notebook;Intel Core i5 6200U 2.3GHz;6;HP;EliteBook 1040;Windows 7;61501,8885;8;14.0 col - Full HD 1920x1080;256GB SSD
+2;Gaming;Intel Core i7 6820HK 2.7GHz;8;MSI;GT72S Dominator;Windows 10;64710,53706;16;17.3 col - IPS Panel Full HD 1920x1080;256GB SSD +  1TB HDD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;7;Lenovo;IdeaPad Y900-17ISK;Windows 10;95873,86634;16;17.3 col - IPS Panel Full HD 1920x1080;128GB SSD +  1TB HDD
+3;Netbook;Intel Celeron Dual Core N3060 1.6GHz;3;Asus;Chromebook C202SA;Chrome OS ;12053,36535;4;11.6 col - 1366x768;16GB Flash Storage
+4;Notebook;Intel Core i7 6600U 2.6GHz;7;Lenovo;ThinkPad X1;Windows 7;109690,23;16;14.0 col - IPS Panel 2560x1440;256GB SSD
+4;Notebook;Intel Core i7 7500U 2.7GHz;6;HP;Noteb Pav;Windows 10;40987,3035;8;15.6 col - IPS Panel Full HD 1920x1080;1TB HDD
+1;2 in 1 Convertible;Intel Core i5 7200U 2.7GHz;4;Dell;Inspiron 5578;Windows 10;45801,951;8;15.6 col - IPS Panel Full HD / Touchscreen 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;ProBook 450;Windows 10;40987,3035;4;15.6 col - 1366x768;256GB SSD
+5;Ultrabook;Intel Core i7 7500U 2.7GHz;4;Dell;XPS 13;Windows 10;94367,091;16;13.3 col - Quad HD+ / Touchscreen 3200x1800;1TB SSD
+4;Notebook;Intel Core i3 6100U 2.3GHz;6;HP;ProBook 650;Windows 10;29522,16248;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;250 G5;No OS ;20891,3835;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;AMD A8-Series 7410 2.2GHz;1;Acer;Aspire ES1-523;Windows 10;18798,0585;8;15.6 col - 1366x768;1TB HDD
+1;2 in 1 Convertible;Intel Core i7 7500U 2.7GHz;4;Dell;Inspiron 7378;Windows 10;54384,5835;12;13.3 col - IPS Panel Full HD / Touchscreen 1920x1080;256GB SSD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;8;MSI;GT62VR 6RD;Windows 10;76155,1635;16;15.6 col - Full HD 1920x1080;256GB SSD +  1TB HDD
+4;Notebook;Intel Core i7 7500U 2.7GHz;6;HP;ProBook 450;Windows 10;44797,155;8;15.6 col - Full HD 1920x1080;256GB SSD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;3;Asus;Rog G752VL-GC088D;No OS ;41782,767;16;17.3 col - IPS Panel Full HD 1920x1080;1TB HDD
+4;Notebook;Intel Core i5 7200U 2.5GHz;4;Dell;Inspiron 3567;Windows 10;23403,3735;4;15.6 col - Full HD 1920x1080;1TB HDD
+4;Notebook;Intel Core i7 7500U 2.7GHz;4;Dell;Inspiron 5567;Windows 10;41447,41634;16;15.6 col - Full HD 1920x1080;2TB HDD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;8;MSI;GS63VR 6RF;Windows 10;80760,4785;16;15.6 col - Full HD 1920x1080;256GB SSD +  1TB HDD
+5;Ultrabook;Intel Core i7 7500U 2.7GHz;4;Dell;XPS 13;Windows 10;61041,357;8;13.3 col - Full HD 1920x1080;256GB SSD
+2;Gaming;Intel Core i7 6820HK 2.7GHz;3;Asus;ROG G701VO;Windows 10;166419,3375;64;17.3 col - IPS Panel Full HD 1920x1080;1TB SSD
+1;2 in 1 Convertible;Intel Core i7 6500U 2.5GHz;4;Dell;Inspiron 5368;Windows 10;33409,88567;8;13.3 col - Full HD / Touchscreen 1920x1080;256GB SSD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;4;Dell;Alienware 15;Windows 10;55640,5785;16;15.6 col - 4K Ultra HD 3840x2160;256GB SSD +  1TB HDD
+5;Ultrabook;Intel Core M 1.1GHz;2;Apple;MacBook 12;Mac OS X;54426,45;8;12.0 col - IPS Panel Retina Display 2304x1440;256GB Flash Storage
+4;Notebook;Intel Core i3 6100U 2.3GHz;4;Dell;Latitude 3570;Windows 10;20178,81567;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i5 6200U 2.3GHz;6;HP;ProBook 650;Windows 10;50197,9335;4;15.6 col - 1366x768;500GB HDD
+5;Ultrabook;Intel Core i5 6200U 2.3GHz;6;HP;EliteBook 820;Windows 7;50197,9335;8;12.5 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i7 7500U 2.7GHz;6;HP;ProBook 430;Windows 10;45634,485;8;13.3 col - Full HD 1920x1080;256GB SSD
+5;Ultrabook;Intel Core i7 6500U 2.5GHz;7;Lenovo;ThinkPad Yoga;Windows 10;71737,82909;8;12.5 col - IPS Panel Full HD / Touchscreen 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;7;Lenovo;IdeaPad 300-17ISK;Windows 10;27590,0235;8;17.3 col - 1600x900;1TB HDD
+4;Notebook;Intel Core i5 6300HQ 2.3GHz;7;Lenovo;Ideapad 700-15ISK;Windows 10;40903,5705;4;15.6 col - IPS Panel Full HD 1920x1080;1TB HDD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;8;MSI;GT72VR Dominator;Windows 10;104624,3835;16;17.3 col - Full HD 1920x1080;256GB SSD +  1TB HDD
+4;Notebook;Intel Core i5 6200U 2.3GHz;7;Lenovo;V110-15ISK (i5-6200U/4GB/500GB/W10);Windows 10;22607,91;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i5 6200U 2.3GHz;6;HP;Probook 650;Windows 7;39354,51;4;15.6 col - Full HD 1920x1080;500GB HDD
+5;Ultrabook;Intel Core M 6Y75 1.2GHz;7;Lenovo;Yoga 900S-12ISK;Windows 10;58571,2335;8;12.5 col - IPS Panel Touchscreen 2560x1440;512GB SSD
+2;Gaming;Intel Core i7 6820HK 2.7GHz;7;Lenovo;IdeaPad Y900-17ISK;Windows 10;135647,46;32;17.3 col - IPS Panel Full HD 1920x1080;512GB SSD +  1TB Hybrid
+1;2 in 1 Convertible;Intel Atom x5-Z8550 1.44GHz;7;Lenovo;Yoga Book;Windows 10;27057,06296;4;10.1 col - IPS Panel Touchscreen 1920x1200;64GB Flash Storage
+5;Ultrabook;Intel Core i7 7500U 2.7GHz;6;HP;Spectre x360;Windows 10;85784,4585;16;13.3 col - IPS Panel 4K Ultra HD 3840x2160;512GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;4;Dell;Vostro 3568;Windows 10;31399,875;8;15.6 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;6;HP;EliteBook 840;Windows 7;43163,94284;4;14.0 col - Full HD 1920x1080;500GB HDD
+6;Workstation;Intel Core i7 6500U 2.5GHz;6;HP;ZBook 15u;Windows 7;62590,4175;8;15.6 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;7;Lenovo;ThinkPad T460;Windows 7;50197,9335;8;14.0 col - Full HD 1920x1080;1GB SSD
+4;Notebook;Intel Pentium Dual Core 4405Y 1.5GHz;6;HP;Chromebook 13;Chrome OS ;25747,8975;4;13.3 col - Quad HD+ 3200x1800;32GB Flash Storage
+4;Notebook;AMD A8-Series 7410 2.2GHz;1;Acer;Aspire ES1-523;Windows 10;16202,3355;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Pentium Quad Core N3700 1.6GHz;4;Dell;Inspiron 3552;Linux ;16474,04909;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i3 6006U 2GHz;6;HP;250 G6;No OS ;14485,39034;4;15.6 col - 1366x768;1TB HDD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;3;Asus;Rog GL702VM-GC354T;Windows 10;66944,5335;8;17.3 col - IPS Panel Full HD 1920x1080;256GB SSD +  1TB HDD
+5;Ultrabook;Intel Core i5 8250U 1.6GHz;4;Dell;Inspiron 5370;Windows 10;34261,45028;4;13.3 col - IPS Panel Full HD 1920x1080;256GB SSD
+3;Netbook;Intel Core i5 6200U 2.3GHz;6;HP;Elitebook 820;Windows 7;66944,5335;4;12.5 col - 1366x768;128GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;1;Acer;Aspire F5-573G;Windows 10;33451,3335;8;15.6 col - Full HD 1920x1080;256GB SSD +  1TB HDD
+4;Notebook;Intel Core i5 7200U 2.5GHz;4;Dell;Inspiron 5567;Windows 10;26744,3202;8;15.6 col - Full HD 1920x1080;1TB HDD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;8;MSI;GS70 Stealth;Windows 10;66944,5335;8;17.3 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Pentium Quad Core N3710 1.6GHz;6;HP;250 G5;Windows 10;20933,25;4;15.6 col - 1366x768;1TB HDD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;3;Asus;G752VY-GC162T (i7-6700HQ/16GB/1TB;Windows 10;96251,0835;16;17.3 col - IPS Panel Full HD 1920x1080;128GB SSD +  1TB HDD
+5;Ultrabook;Intel Core i3 6100U 2.3GHz;4;Dell;Latitude E5270;Windows 7;47524,75748;4;12.5 col - 1366x768;500GB HDD
+5;Ultrabook;Intel Core i3 6100U 2.3GHz;4;Dell;Latitude E5270;Windows 7;48856,94951;4;12.5 col - 1366x768;128GB SSD
+4;Notebook;Intel Celeron Dual Core 3205U 1.5GHz;1;Acer;Chromebook 15;Chrome OS ;8750,0985;4;15.6 col - 1366x768;16GB SSD
+6;Workstation;Intel Core i7 6700HQ 2.6GHz;6;HP;ZBook 17;Windows 7;121370,9835;8;17.3 col - IPS Panel Full HD 1920x1080;1TB HDD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;7;Lenovo;Legion Y520-15IKBN;Windows 10;50197,9335;16;15.6 col - Full HD 1920x1080;512GB SSD
+5;Ultrabook;Intel Core i5 6200U 2.3GHz;4;Dell;Latitude E5270;Windows 7;59161,55115;8;12.5 col - 1366x768;256GB SSD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;8;MSI;GE72 Apache;Windows 10;63268,23614;8;17.3 col - Full HD 1920x1080;128GB SSD +  1TB HDD
+1;2 in 1 Convertible;Intel Core i5 6200U 2.3GHz;7;Lenovo;Yoga 500-15ISK;Windows 10;36298,2555;4;15.6 col - IPS Panel Full HD / Touchscreen 1920x1080;256GB SSD
+4;Notebook;AMD A6-Series 9220 2.5GHz;6;HP;15-bw011nv (A6-9220/4GB/1TB/FHD/W10);Windows 10;16662,867;4;15.6 col - Full HD 1920x1080;1TB HDD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;3;Asus;Rog GL552VW-CN470T;Windows 10;56059,2435;16;15.6 col - IPS Panel Full HD 1920x1080;128GB SSD +  1TB HDD
+4;Notebook;Intel Core M 6Y54 1.1GHz;6;HP;EliteBook 1030;Windows 10;71131,1835;8;13.3 col - Quad HD+ / Touchscreen 3200x1800;256GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;4;Dell;Vostro 3559;Windows 7;32201,61848;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i3 6006U 2.0GHz;7;Lenovo;V110-15ISK (i3-6006U/4GB/128GB/W10);Windows 10;17960,7285;4;15.6 col - 1366x768;128GB SSD
+5;Ultrabook;Intel Core i7 6500U 2.5GHz;6;HP;Spectre Pro;Windows 10;82435,1385;8;13.3 col - Full HD 1920x1080;512GB SSD
+1;2 in 1 Convertible;Intel Atom x5-Z8550 1.44GHz;7;Lenovo;Yoga Book;Android ;22984,7085;4;10.1 col - IPS Panel Touchscreen 1920x1200;64GB Flash Storage
+5;Ultrabook;Intel Core i7 7560U 2.4GHz;4;Dell;XPS 13;Windows 10;57733,9035;8;13.3 col - Full HD 1920x1080;256GB SSD
+2;Gaming;Intel Core i7 6820HK 2.7GHz;7;Lenovo;IdeaPad Y900-17ISK;Windows 10;115132,4563;16;17.3 col - IPS Panel Full HD 1920x1080;256GB SSD +  1TB Hybrid
+5;Ultrabook;Intel Core i7 6500U 2.5GHz;9;Razer;Blade Stealth;Windows 10;43080,6285;8;12.5 col - Touchscreen / 4K Ultra HD 3840x2160;256GB SSD
+5;Ultrabook;Intel Core i7 7500U 2.7GHz;11;Toshiba;Portege X30-D-10K;Windows 10;93194,829;16;13.3 col - Full HD 1920x1080;512GB SSD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;3;Asus;Rog GL752VW-T4308T;Windows 10;54949,36258;8;17.3 col - Full HD 1920x1080;128GB SSD +  1TB HDD
+4;Notebook;Intel Atom X5-Z8350 1.44GHz;12;Vero;V131 (X5-Z8350/4GB/32GB/FHD/W10);Windows 10;8205,834;4;13.3 col - Full HD 1920x1080;32GB Flash Storage
+4;Notebook;Intel Core i5 6200U 2.3GHz;6;HP;Spectre Pro;Windows 10;70754,385;8;13.3 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;6;HP;EliteBook 1040;Windows 7;63344,0145;8;14.0 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;4;Dell;Latitude E5570;Linux ;21922,5554;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i3 7100U 2.4GHz;3;Asus;VivoBook Max;Windows 10;18211,9275;4;15.6 col - 1366x768;1TB HDD
+1;2 in 1 Convertible;Intel Core i7 6500U 2.5GHz;7;Lenovo;ThinkPad Yoga;Windows 10;69875,1885;8;14.0 col - IPS Panel Full HD / Touchscreen 1920x1080;256GB SSD
+1;2 in 1 Convertible;Intel Atom x5-Z8550 1.44GHz;7;Lenovo;Yoga Book;Windows 10;20054,0535;4;10.1 col - IPS Panel Touchscreen 1920x1200;64GB Flash Storage
+5;Ultrabook;Intel Core i5 6300U 2.4GHz;6;HP;EliteBook 820;Windows 7;79337,0175;8;12.5 col - 1366x768;256GB SSD
+2;Gaming;Intel Core i5 7300HQ 2.5GHz;7;Lenovo;Legion Y520-15IKBN;No OS ;41405,9685;8;15.6 col - IPS Panel Full HD 1920x1080;128GB SSD +  1TB HDD
+2;Gaming;Intel Core i5 6300HQ 2.3GHz;6;HP;Omen -;Windows 10;47267,2785;8;17.3 col - IPS Panel Full HD 1920x1080;128GB SSD +  1TB HDD
+4;Notebook;Intel Core i7 7500U 2.7GHz;6;HP;15-bs078cl (i7-7500U/8GB/2TB/W10);Windows 10;26334,0285;8;15.6 col - 1366x768;2TB HDD
+1;2 in 1 Convertible;Intel Core i7 6600U 2.6GHz;7;Lenovo;ThinkPad P40;Windows 7;85842,23427;8;14.0 col - IPS Panel Full HD / Touchscreen 1920x1080;512GB SSD
+4;Notebook;Intel Celeron Dual Core N3350 1.1GHz;3;Asus;L403NA-GA013TS (N3350/4GB/32GB/W10);Windows 10;11638,887;4;14.0 col - 1366x768;32GB Flash Storage
+5;Ultrabook;Intel Core i7 7500U 2.7GHz;6;HP;250 G6;Windows 10;31483,608;8;15.6 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;1;Acer;Aspire E5-576G;Windows 10;25789,764;4;15.6 col - Full HD 1920x1080;1TB HDD
+4;Notebook;Intel Core i7 6500U 2.5GHz;7;Lenovo;IdeaPad 500-15ISK;Windows 10;46011,2835;16;15.6 col - Full HD 1920x1080;1TB Hybrid
+6;Workstation;Intel Core i7 6700HQ 2.6GHz;6;HP;ZBook 17;Windows 7;165347,5551;8;17.3 col - IPS Panel Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;4;Dell;Inspiron 5567;Windows 10;32823,336;8;15.6 col - 1366x768;1TB HDD
+2;Gaming;Intel Core i7 6820HQ 2.7GHz;8;MSI;GT72S Dominator;Windows 10;100437,7335;16;17.3 col - Full HD 1920x1080;256GB SSD +  1TB HDD
+5;Ultrabook;Intel Core i7 6500U 2.5GHz;6;HP;EliteBook 850;Windows 7;90922,31538;8;15.6 col - Full HD 1920x1080;256GB SSD
+1;2 in 1 Convertible;Intel Core i7 6600U 2.6GHz;7;Lenovo;ThinkPad X1;Windows 10;102154,26;16;14.0 col - IPS Panel Touchscreen 2560x1440;512GB SSD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;8;MSI;GP62M 7RDX;Windows 10;47845,0362;8;15.6 col - Full HD 1920x1080;128GB SSD +  1TB HDD
+1;2 in 1 Convertible;Intel Core i5 6300U 2.4GHz;6;HP;Spectre Pro;Windows 10;68200,5285;8;13.3 col - Full HD / Touchscreen 1920x1080;256GB SSD
+6;Workstation;Intel Core i7 6700HQ 2.6GHz;6;HP;ZBook 15;Windows 7;93320,4285;8;15.6 col - IPS Panel Full HD 1920x1080;256GB SSD
+1;2 in 1 Convertible;Intel Core i7 6600U 2.6GHz;6;HP;Spectre Pro;Windows 10;75317,8335;8;13.3 col - Touchscreen 2560x1440;256GB SSD
+6;Workstation;Intel Core i7 6700HQ 2.6GHz;6;HP;ZBook Studio;Windows 7;79504,4835;8;15.6 col - Full HD 1920x1080;256GB SSD
+5;Ultrabook;Intel Core i7 6500U 2.50GHz;6;HP;EliteBook 820;Windows 7;96165,25718;8;12.5 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i7 7500U 2.7GHz;4;Dell;Vostro 5568;Windows 10;42280,97835;8;15.6 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;6;HP;EliteBook 850;Windows 7;66107,2035;8;15.6 col - Full HD 1920x1080;256GB SSD
+1;2 in 1 Convertible;Intel Core i7 6500U 2.5GHz;7;Lenovo;ThinkPad X1;Windows 10;97925,7435;8;14.0 col - IPS Panel Touchscreen 2560x1440;256GB SSD
+4;Notebook;Intel Core i3 6006U 2.0GHz;7;Lenovo;V110-15ISK (i3-6006U/4GB/1TB/No;No OS ;14192,7435;4;15.6 col - 1366x768;1TB HDD
+4;Notebook;AMD E-Series 7110 1.8GHz;6;HP;15-BA015wm (E2-7110/4GB/500GB/W10);Windows 10;12434,3505;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i5 6200U 2.3GHz;7;Lenovo;B51-80 (i5-6200U/8GB/1TB/Radeon;No OS ;25078,0335;8;15.6 col - Full HD 1920x1080;1TB HDD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;4;Dell;Inspiron 7567;Windows 10;50197,9335;8;15.6 col - Full HD 1920x1080;1TB HDD
+4;Notebook;Intel Core i5 6300HQ 2.3GHz;4;Dell;XPS 15;Windows 10;94228,09422;8;15.6 col - IPS Panel Touchscreen / 4K Ultra HD 3840x2160;256GB SSD
+4;Notebook;AMD A6-Series A6-9220 2.5GHz;6;HP;15-bw002nv (A6-9220/4GB/256GB/Radeon;Windows 10;20049,44819;4;15.6 col - Full HD 1920x1080;256GB SSD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;8;MSI;GP72M 7REX;Windows 10;62498,3112;16;17.3 col - Full HD 1920x1080;256GB SSD +  1TB HDD
+5;Ultrabook;Intel Core i7 6600U 2.6GHz;7;Lenovo;ThinkPad T460s;Windows 7;96251,0835;12;14.0 col - Full HD 1920x1080;512GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;7;Lenovo;B51-80 (i5-6200U/8GB/1008GB/Radeon;Windows 10;33011,31659;8;15.6 col - Full HD 1920x1080;1TB Hybrid
+1;2 in 1 Convertible;Intel Core i7 6600U 2.6GHz;6;HP;Spectre Pro;Windows 10;85449,5265;8;13.3 col - Touchscreen 2560x1440;512GB SSD
+5;Ultrabook;Intel Core i7 6600U 2.6GHz;7;Lenovo;ThinkPad T460;Windows 7;62757,8835;8;14.0 col - Full HD 1920x1080;256GB SSD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;8;MSI;GS40 Phantom;Windows 10;74061,8385;16;14.0 col - Full HD 1920x1080;256GB SSD +  1TB HDD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;6;HP;Pavilion 15-cb003nv;Windows 10;37637,9835;8;15.6 col - IPS Panel Full HD 1920x1080;1TB HDD
+4;Notebook;Intel Core i3 6006U 2.0GHz;7;Lenovo;IdeaPad 310-15ISK;Windows 10;19216,7235;8;15.6 col - 1366x768;1TB HDD
+4;Notebook;Intel Core i5 6200U 2.3GHz;6;HP;250 G4;No OS ;19969,90184;4;15.6 col - 1366x768;500GB HDD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;4;Dell;Inspiron 7567;Windows 10;62716,017;8;15.6 col - 4K Ultra HD 3840x2160;128GB SSD +  1TB HDD
+4;Notebook;Intel Core i5 7200U 2.5GHz;7;Lenovo;ThinkPad T570;Windows 10;58194,435;8;15.6 col - IPS Panel Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i3 6006U 2GHz;7;Lenovo;320-15ISK (i3-6006U/4GB/1TB/GeForce;Windows 10;19593,522;4;15.6 col - Full HD 1920x1080;1TB HDD
+4;Notebook;Intel Celeron Dual Core N3060 1.6GHz;6;HP;Stream 14-AX000nv;Windows 10;10424,7585;2;14.0 col - 1366x768;32GB Flash Storage
+2;Gaming;Intel Core i7 7500U 2.7GHz;8;MSI;PL60 7RD;Windows 10;35125,9935;8;15.6 col - IPS Panel Full HD 1920x1080;1TB HDD
+4;Notebook;Intel Core i7 6500U 2.5GHz;6;HP;250 G5;Windows 10;28427,3535;8;15.6 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i7 8550U 1.8GHz;6;HP;ProBook 450;Windows 10;48523,2735;16;15.6 col - Full HD 1920x1080;512GB SSD
+4;Notebook;Intel Celeron Dual Core N3050 1.6GHz;3;Asus;X553SA-XX021T (N3050/4GB/500GB/W10);Windows 10;15448,7385;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i5 6200U 2.3GHz;7;Lenovo;V110-15ISK (i5-6200U/4GB/500GB/No;No OS ;16662,867;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i7 7500U 2.7GHz;7;Lenovo;IdeaPad 510-15IKB;No OS ;29683,3485;8;15.6 col - Full HD 1920x1080;1TB HDD
+4;Notebook;Intel Core i3 7100U 2.4GHz;3;Asus;UX410UA-GV097T (i3-7100U/4GB/256GB/FHD/W10);Windows 10;32195,3385;4;14.0 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i7 6500U 2.5GHz;7;Lenovo;B51-80 (i7-6500U/4GB/1008GB/FHD/W7);Windows 7;34539,8625;4;15.6 col - Full HD 1920x1080;1TB Hybrid
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;7;Lenovo;IdeaPad Y700-15ISK;Windows 10;54635,7825;16;15.6 col - IPS Panel Full HD 1920x1080;512GB SSD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;8;MSI;GS60 Ghost;Windows 10;90154,06511;16;15.6 col - Full HD 1920x1080;128GB SSD +  1TB HDD
+4;Notebook;Intel Core i3 6100U 2.3GHz;6;HP;ProBook 450;Windows 10;27213,225;4;15.6 col - 1366x768;500GB HDD
+1;2 in 1 Convertible;Intel Core i5 6200U 2.3GHz;7;Lenovo;ThinkPad X1;Windows 10;68535,4605;8;14.0 col - IPS Panel Touchscreen 2560x1440;256GB SSD
+5;Ultrabook;Intel Core i7 7500U 2.7GHz;7;Lenovo;IdeaPad 310-15IKB;Windows 10;34791,0615;6;15.6 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i7 7500U 2.7GHz;4;Dell;Vostro 5568;Linux ;37470,93617;8;15.6 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Celeron Dual Core N3350 2GHz;1;Acer;Aspire 3;Windows 10;13941,5445;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i7 6700HQ 2.6GHz;6;HP;Pavilion 15-BC000nv;Windows 10;33451,3335;6;15.6 col - IPS Panel Full HD 1920x1080;1TB HDD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;3;Asus;Rog GL552VW-DM201T;Windows 10;38056,6485;8;15.6 col - IPS Panel Full HD 1920x1080;256GB SSD +  1TB HDD
+1;2 in 1 Convertible;Intel Core i7 7500U 2.7GHz;4;Dell;Inspiron 5578;Windows 10;49360,6035;16;15.6 col - Full HD / Touchscreen 1920x1080;512GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;1;Acer;Aspire E5-576G;Windows 10;28929,7515;4;15.6 col - Full HD 1920x1080;256GB SSD
+5;Ultrabook;Intel Core i5 6300U 2.4GHz;4;Dell;XPS 13;Linux ;46011,2835;8;13.3 col - Quad HD+ / Touchscreen 3200x1800;256GB SSD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;1;Acer;Predator G9-793;Windows 10;108811,0335;16;17.3 col - IPS Panel Full HD 1920x1080;256GB SSD +  1TB HDD
+2;Gaming;Intel Core i5 7300HQ 2.5GHz;7;Lenovo;Legion Y520-15IKBN;Windows 10;34288,6635;8;15.6 col - IPS Panel Full HD 1920x1080;1TB HDD
+1;2 in 1 Convertible;Samsung Cortex A72&A53 2.0GHz;10;Samsung;Chromebook Plus;Chrome OS ;27590,0235;4;12.3 col - IPS Panel Touchscreen 2400x1600;32GB Flash Storage
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;250 G6;Windows 10;20305,2525;4;15.6 col - 1366x768;500GB HDD
+5;Ultrabook;Intel Core M 1.1GHz;2;Apple;MacBook 12;Mac OS X;48690,7395;8;12.0 col - IPS Panel Retina Display 2304x1440;256GB Flash Storage
+1;2 in 1 Convertible;Intel Core i5 7200U 2.5GHz;4;Dell;Inspiron 7378;Windows 10;50197,9335;8;13.3 col - IPS Panel Full HD / Touchscreen 1920x1080;256GB SSD
+4;Notebook;Intel Core i7 7700HQ 2.8GHz;6;HP;Pavilion Power;Windows 10;55556,8455;12;15.6 col - IPS Panel Full HD 1920x1080;128GB SSD +  1TB HDD
+4;Notebook;Intel Core i3 6006U 2GHz;7;Lenovo;V110-15ISK (i3-6006U/4GB/1TB/Radeon;No OS ;15406,872;4;15.6 col - 1366x768;1TB HDD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;3;Asus;Rog G752VY-GC229T;Windows 10;90012,975;16;17.3 col - IPS Panel Full HD 1920x1080;512GB SSD +  1TB HDD
+4;Notebook;Intel Celeron Dual Core N3350 2GHz;1;Acer;Aspire 3;Linux ;11387,688;4;15.6 col - 1366x768;1TB HDD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;8;MSI;GS73VR 7RF;Windows 10;85780,27185;16;17.3 col - Full HD 1920x1080;256GB SSD +  1TB HDD
+4;Notebook;Intel Core i3 6006U 2.0GHz;4;Dell;Inspiron 5567;Windows 10;20891,3835;4;15.6 col - 1366x768;128GB SSD
+4;Notebook;Intel Core i7 6500U 2.5GHz;7;Lenovo;IdeaPad 310-15ISK;No OS ;26334,0285;8;15.6 col - 1366x768;500GB HDD
+1;2 in 1 Convertible;Intel Core i7 8550U 1.8GHz;4;Dell;Inspiron 5579;Windows 10;53798,4525;16;15.6 col - Full HD / Touchscreen 1920x1080;512GB SSD
+5;Ultrabook;Intel Core i7 7500U 2.7GHz;4;Dell;XPS 13;Windows 10;112202,22;16;13.3 col - Quad HD+ / Touchscreen 3200x1800;512GB SSD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;3;Asus;FX502VM-DM105T (i7-6700HQ/8GB/1TB/GeForce;Windows 10;48941,9385;8;15.6 col - Full HD 1920x1080;1TB HDD
+4;Notebook;Intel Core i5 7200U 2.5GHz;4;Dell;Inspiron 5567;Windows 10;37219,3185;8;15.6 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;6;HP;15-bs025nv (i5-7200U/8GB/256GB/W10);Windows 10;24240,7035;8;15.6 col - 1366x768;256GB SSD
+4;Notebook;AMD E-Series 9000 2.2GHz;7;Lenovo;IdeaPad 320-15AST;Windows 10;12518,0835;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i3 6006U 2.0GHz;1;Acer;Aspire E5-774G;Windows 10;26334,0285;8;17.3 col - 1600x900;1TB HDD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;3;Asus;Rog Strix;Windows 10;102531,0585;16;15.6 col - Full HD 1920x1080;256GB SSD +  1TB HDD
+5;Ultrabook;Intel Core M 1.2GHz;2;Apple;MacBook 12;Mac OS X;53547,2535;8;12.0 col - IPS Panel Retina Display 2304x1440;512GB Flash Storage
+4;Notebook;Intel Core i7 7700HQ 2.8GHz;3;Asus;FX502VM-AS73 (i7-7700HQ/16GB/1TB;Windows 10;73224,5085;16;15.6 col - Full HD 1920x1080;128GB SSD +  1TB HDD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;8;MSI;GS73VR Stealth;Windows 10;81597,38984;16;17.3 col - IPS Panel Full HD 1920x1080;256GB SSD +  1TB HDD
+1;2 in 1 Convertible;Intel Core i5 7200U 2.5GHz;4;Dell;Inspiron 7579;Windows 10;41824,6335;8;15.6 col - IPS Panel Full HD / Touchscreen 1920x1080;256GB SSD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;3;Asus;ROG Strix;Windows 10;81597,8085;16;17.3 col - Full HD 1920x1080;256GB SSD +  1TB HDD
+3;Netbook;Intel Celeron Dual Core 3205U 1.5GHz;1;Acer;C740-C9QX (3205U/2GB/32GB/Chrome;Chrome OS ;7284,771;2;11.6 col - 1366x768;32GB SSD
+4;Notebook;Intel Core i3 6006U 2GHz;1;Acer;E5 774G;Windows 10;25036,167;4;17.3 col - 1600x900;1TB HDD
+4;Notebook;Intel Core i5 7200U 2.5GHz;7;Lenovo;IdeaPad 320-17IKB;No OS ;22566,0435;8;17.3 col - 1600x900;1TB HDD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;7;Lenovo;IdeaPad Y700-15ISK;Windows 10;53254,188;8;15.6 col - IPS Panel Full HD 1920x1080;128GB SSD +  1TB HDD
+1;2 in 1 Convertible;Intel Core i7 7Y75 1.3GHz;1;Acer;SP714-51 (i7-7Y75/8GB/256GB/FHD/W10);Windows 10;48104,6085;8;14.0 col - IPS Panel Full HD / Touchscreen 1920x1080;256GB SSD
+4;Notebook;Intel Core i7 6600U 2.6GHz;7;Lenovo;Thinkpad T560;Windows 10;64013,8785;8;15.6 col - IPS Panel Full HD 1920x1080;256GB SSD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;8;MSI;GP62MVR 6RF;Windows 10;61799,55932;8;15.6 col - Full HD 1920x1080;128GB SSD +  1TB HDD
+4;Notebook;AMD A12-Series 9720P 2.7GHz;6;HP;15-bw009nv (A12-9720P/6GB/1TB/Radeon;Windows 10;22147,3785;6;15.6 col - Full HD 1920x1080;1TB HDD
+5;Ultrabook;Intel Core i5 6300U 2.4GHz;4;Dell;Latitude E7270;Windows 7;71732,80511;8;12.5 col - Full HD / Touchscreen 1920x1080;256GB SSD
+1;2 in 1 Convertible;Intel Core i3 7100U 2.4GHz;4;Dell;Inspiron 5578;Windows 10;21310,0485;4;15.0 col - Full HD / Touchscreen 1920x1080;500GB HDD
+4;Notebook;Intel Pentium Quad Core N3710 1.6GHz;3;Asus;X540SA-RBPDN09 (N3710/4GB/1TB/W10);Windows 10;12936,7485;4;15.6 col - 1366x768;1TB HDD
+5;Ultrabook;Intel Core i7 7500U 2.7GHz;4;Dell;XPS 13;Windows 10;61836,8205;8;13.3 col - Quad HD+ / Touchscreen 3200x1800;256GB SSD
+4;Notebook;Intel Core i5 7200U 2.5GHz;4;Dell;Vostro 3568;Linux ;21848,45169;4;15.6 col - 1366x768;1TB HDD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;7;Lenovo;IdeaPad Y700-15ISK;Windows 10;43080,6285;16;15.6 col - IPS Panel Full HD / Touchscreen 1920x1080;128GB SSD +  1TB HDD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;8;MSI;GL62M 7RDX;Windows 10;48104,6085;8;15.6 col - Full HD 1920x1080;128GB SSD +  1TB HDD
+3;Netbook;Intel Core i7 6500U 2.50GHz;7;Lenovo;ThinkPad Yoga;Windows 10;69079,725;16;12.5 col - IPS Panel Full HD / Touchscreen 1920x1080;512GB SSD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;9;Razer;Blade Pro;Windows 10;146490,8835;16;14.0 col - Full HD 1920x1080;1TB SSD
+4;Notebook;Intel Core i3 7100U 2.4GHz;4;Dell;Inspiron 3567;Windows 10;19635,80717;8;15.6 col - Touchscreen 1366x768;1TB HDD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;8;MSI;GE72VR Apache;Windows 10;66902,667;16;17.3 col - Full HD 1920x1080;256GB SSD +  1TB HDD
+5;Ultrabook;Intel Core i5 1.6GHz;2;Apple;MacBook Air;Mac OS X;40149,9735;4;11.6 col - 1366x768;256GB Flash Storage
+4;Notebook;Intel Core i3 6006U 2GHz;6;HP;15-bs023nv (i3-6006U/4GB/1TB/FHD/W10);Windows 10;20012,187;4;15.6 col - Full HD 1920x1080;1TB HDD
+5;Ultrabook;Intel Core i7 6500U 2.5GHz;6;HP;EliteBook 840;Windows 7;92030,52164;8;14.0 col - 2560x1440;256GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;4;Dell;Vostro 3559;Windows 7;30855,6105;4;15.6 col - 1366x768;500GB HDD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;8;MSI;GL62 6QF;Windows 10;48941,9385;8;15.6 col - Full HD 1920x1080;128GB SSD +  1TB HDD
+4;Notebook;Intel Core i7 7500U 2.7GHz;7;Lenovo;ThinkPad 13;Windows 10;62757,8835;16;13.3 col - IPS Panel Full HD 1920x1080;512GB SSD
+4;Notebook;AMD A12-Series 9720P 3.6GHz;7;Lenovo;IdeaPad 320-15ABR;Windows 10;25018,16441;6;15.6 col - Full HD 1920x1080;256GB SSD
+5;Ultrabook;Intel Core i7 6500U 2.5GHz;3;Asus;ZenBook UX310UA-WB71;Windows 10;53589,12;8;13.3 col - Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Core i3 6006U 2.0GHz;1;Acer;Aspire ES1-572;Linux ;15147,2997;4;15.6 col - 1366x768;500GB HDD
+1;2 in 1 Convertible;Intel Core i7 7500U 2.7GHz;4;Dell;Inspiron 7779;Windows 10;75317,8335;16;17.3 col - Full HD / Touchscreen 1920x1080;512GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;6;HP;EliteBook 840;Windows 7;46052,73134;4;14.0 col - Full HD 1920x1080;256GB SSD
+2;Gaming;Intel Core i7 7700HQ 2.8GHz;3;Asus;Rog GL553VE-FY052T;Windows 10;66986,4;16;15.6 col - IPS Panel Full HD 1920x1080;256GB SSD +  1TB HDD
+4;Notebook;Intel Core i5 7200U 2.5GHz;4;Dell;Latitude 5480;Windows 10;36633,1875;4;14.0 col - 1366x768;500GB HDD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;3;Asus;Rog GL502VS;Windows 10;97339,6125;16;15.6 col - IPS Panel Full HD 1920x1080;256GB SSD +  1TB HDD
+4;Notebook;Intel Core i5 7200U 2.5GHz;7;Lenovo;V510-15IKB (i5-7200U/8GB/256GB/FHD/No;No OS ;23989,5045;8;15.6 col - IPS Panel Full HD 1920x1080;256GB SSD
+1;2 in 1 Convertible;Intel Core i5 7Y54 1.2GHz;4;Dell;XPS 13;Windows 10;75903,9645;8;13.3 col - Quad HD+ / Touchscreen 3200x1800;256GB SSD
+4;Notebook;Intel Pentium Quad Core N3710 1.6GHz;4;Dell;Inspiron 3552;Linux ;13564,746;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;AMD A6-Series 9220 2.5GHz;6;HP;255 G6;Windows 10;16704,7335;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i3 6100U 2.3GHz;7;Lenovo;IdeaPad 310-15ISK;Windows 10;23822,0385;6;15.6 col - Full HD 1920x1080;128GB SSD
+4;Notebook;Intel Core i5 6200U 2.3GHz;7;Lenovo;ThinkPad L460;Windows 10;44880,888;8;14.0 col - IPS Panel Full HD 1920x1080;256GB SSD
+4;Notebook;Intel Pentium Quad Core N3700 1.6GHz;4;Dell;Inspiron 3552;Windows 10;18588,30734;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Celeron Dual Core N3350 1.1GHz;3;Asus;X541NA-GO020T (N3350/4GB/1TB/W10);Windows 10;14192,7435;4;15.6 col - 1366x768;1TB HDD
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;3;Asus;Rog G752VT-GC073T;Windows 10;79546,35;16;17.3 col - IPS Panel Full HD 1920x1080;128GB SSD +  1TB HDD
+4;Notebook;Intel Core i3 6006U 2GHz;4;Dell;Vostro 3568;Windows 10;20514,585;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i7 6500U 2.5GHz;7;Lenovo;B51-80 (i7-6500U/8GB/1008GB/Radeon;Windows 7;37470,5175;8;15.6 col - Full HD 1920x1080;1TB Hybrid
+2;Gaming;Intel Core i7 6700HQ 2.6GHz;8;MSI;GE62 Apache;Windows 10;51453,9285;8;15.6 col - Full HD 1920x1080;128GB SSD +  1TB HDD
+1;2 in 1 Convertible;Intel Core i5 6200U 2.3GHz;7;Lenovo;Yoga 500-14IBD;Windows 10;34875,21317;4;14.0 col - Full HD / Touchscreen 1920x1080;128GB SSD
+5;Ultrabook;Intel Core M 6Y30 0.9GHz;3;Asus;ZenBook UX305CA-UBM1;Windows 10;30520,6785;8;13.3 col - IPS Panel Full HD 1920x1080;512GB SSD
+4;Notebook;Intel Core i3 7100U 2.4GHz;4;Dell;Inspiron 3567;Windows 10;19216,7235;6;15.6 col - 1366x768;1TB HDD
+4;Notebook;Intel Celeron Dual Core N3060 1.6GHz;1;Acer;Aspire ES1-531;Linux ;12099,4185;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Celeron Dual Core N3050 1.6GHz;4;Dell;Inspiron 3552;Windows 10;15867,4035;2;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i7 6700HQ 2.6GHz;7;Lenovo;IdeaPad Y700-15ISK;Windows 10;37637,9835;8;15.6 col - IPS Panel Full HD 1920x1080;1TB HDD
+4;Notebook;AMD A9-Series 9410 2.9GHz;6;HP;Pavilion 15-AW003nv;Windows 10;23026,15634;6;15.6 col - Full HD 1920x1080;1TB Hybrid
+4;Notebook;Intel Core i7 7500U 2.7GHz;4;Dell;Inspiron 3567;Linux ;33743,98034;8;15.6 col - 1366x768;1TB HDD
+3;Netbook;Intel Celeron Dual Core N3060 1.6GHz;6;HP;Stream 11-Y000na;Windows 10;8750,0985;2;11.6 col - 1366x768;32GB Flash Storage
+4;Notebook;Intel Core i7 6500U 2.5GHz;3;Asus;X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce;Windows 10;30157,27728;4;15.6 col - 1366x768;500GB HDD
+1;2 in 1 Convertible;Intel Core i7 6500U 2.5GHz;7;Lenovo;Yoga 500-14ISK;Windows 10;26710,827;4;14.0 col - IPS Panel Full HD / Touchscreen 1920x1080;128GB SSD
+1;2 in 1 Convertible;Intel Core i7 6500U 2.5GHz;7;Lenovo;Yoga 900-13ISK;Windows 10;62757,8835;16;13.3 col - IPS Panel Quad HD+ / Touchscreen 3200x1800;512GB SSD
+4;Notebook;Intel Celeron Dual Core N3050 1.6GHz;7;Lenovo;IdeaPad 100S-14IBR;Windows 10;9587,4285;2;14.0 col - 1366x768;64GB Flash Storage
+4;Notebook;Intel Core i7 6500U 2.5GHz;6;HP;15-AC110nv (i7-6500U/6GB/1TB/Radeon;Windows 10;31986,006;6;15.6 col - 1366x768;1TB HDD
+4;Notebook;Intel Celeron Dual Core N3050 1.6GHz;3;Asus;X553SA-XX031T (N3050/4GB/500GB/W10);Windows 10;15448,7385;4;15.6 col - 1366x768;500GB HDD
+5;Ultrabook;Intel Core M 6Y30 0.9GHz;3;Asus;ZenBook UX305CA-UBM1;Windows 10;30520,6785;8;13.3 col - IPS Panel Full HD 1920x1080;512GB SSD
+4;Notebook;Intel Core i3 7100U 2.4GHz;4;Dell;Inspiron 3567;Windows 10;19216,7235;6;15.6 col - 1366x768;1TB HDD
+4;Notebook;Intel Celeron Dual Core N3060 1.6GHz;1;Acer;Aspire ES1-531;Linux ;12099,4185;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Celeron Dual Core N3050 1.6GHz;4;Dell;Inspiron 3552;Windows 10;15867,4035;2;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i7 6700HQ 2.6GHz;7;Lenovo;IdeaPad Y700-15ISK;Windows 10;37637,9835;8;15.6 col - IPS Panel Full HD 1920x1080;1TB HDD
+4;Notebook;AMD A9-Series 9410 2.9GHz;6;HP;Pavilion 15-AW003nv;Windows 10;23026,15634;6;15.6 col - Full HD 1920x1080;1TB Hybrid
+4;Notebook;Intel Core i7 7500U 2.7GHz;4;Dell;Inspiron 3567;Linux ;33743,98034;8;15.6 col - 1366x768;1TB HDD
+3;Netbook;Intel Celeron Dual Core N3060 1.6GHz;6;HP;Stream 11-Y000na;Windows 10;8750,0985;2;11.6 col - 1366x768;32GB Flash Storage
+4;Notebook;Intel Core i7 6500U 2.5GHz;3;Asus;X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce;Windows 10;30157,27728;4;15.6 col - 1366x768;500GB HDD
+1;2 in 1 Convertible;Intel Core i7 6500U 2.5GHz;7;Lenovo;Yoga 500-14ISK;Windows 10;26710,827;4;14.0 col - IPS Panel Full HD / Touchscreen 1920x1080;128GB SSD
+1;2 in 1 Convertible;Intel Core i7 6500U 2.5GHz;7;Lenovo;Yoga 900-13ISK;Windows 10;62757,8835;16;13.3 col - IPS Panel Quad HD+ / Touchscreen 3200x1800;512GB SSD
+4;Notebook;Intel Celeron Dual Core N3050 1.6GHz;7;Lenovo;IdeaPad 100S-14IBR;Windows 10;9587,4285;2;14.0 col - 1366x768;64GB Flash Storage
+4;Notebook;Intel Core i7 6500U 2.5GHz;6;HP;15-AC110nv (i7-6500U/6GB/1TB/Radeon;Windows 10;31986,006;6;15.6 col - 1366x768;1TB HDD
+4;Notebook;Intel Celeron Dual Core N3050 1.6GHz;3;Asus;X553SA-XX031T (N3050/4GB/500GB/W10);Windows 10;15448,7385;4;15.6 col - 1366x768;500GB HDD
+5;Ultrabook;Intel Core M 6Y30 0.9GHz;3;Asus;ZenBook UX305CA-UBM1;Windows 10;30520,6785;8;13.3 col - IPS Panel Full HD 1920x1080;512GB SSD
+4;Notebook;Intel Core i3 7100U 2.4GHz;4;Dell;Inspiron 3567;Windows 10;19216,7235;6;15.6 col - 1366x768;1TB HDD
+4;Notebook;Intel Celeron Dual Core N3060 1.6GHz;1;Acer;Aspire ES1-531;Linux ;12099,4185;4;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Celeron Dual Core N3050 1.6GHz;4;Dell;Inspiron 3552;Windows 10;15867,4035;2;15.6 col - 1366x768;500GB HDD
+4;Notebook;Intel Core i7 6700HQ 2.6GHz;7;Lenovo;IdeaPad Y700-15ISK;Windows 10;37637,9835;8;15.6 col - IPS Panel Full HD 1920x1080;1TB HDD
+4;Notebook;AMD A9-Series 9410 2.9GHz;6;HP;Pavilion 15-AW003nv;Windows 10;23026,15634;6;15.6 col - Full HD 1920x1080;1TB Hybrid
+4;Notebook;Intel Core i7 7500U 2.7GHz;4;Dell;Inspiron 3567;Linux ;33743,98034;8;15.6 col - 1366x768;1TB HDD
+3;Netbook;Intel Celeron Dual Core N3060 1.6GHz;6;HP;Stream 11-Y000na;Windows 10;8750,0985;2;11.6 col - 1366x768;32GB Flash Storage
+4;Notebook;Intel Core i7 6500U 2.5GHz;3;Asus;X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce;Windows 10;30157,27728;4;15.6 col - 1366x768;500GB HDD
+1;2 in 1 Convertible;Intel Core i7 6500U 2.5GHz;7;Lenovo;Yoga 500-14ISK;Windows 10;26710,827;4;14.0 col - IPS Panel Full HD / Touchscreen 1920x1080;128GB SSD
+1;2 in 1 Convertible;Intel Core i7 6500U 2.5GHz;7;Lenovo;Yoga 900-13ISK;Windows 10;62757,8835;16;13.3 col - IPS Panel Quad HD+ / Touchscreen 3200x1800;512GB SSD
+4;Notebook;Intel Celeron Dual Core N3050 1.6GHz;7;Lenovo;IdeaPad 100S-14IBR;Windows 10;9587,4285;2;14.0 col - 1366x768;64GB Flash Storage
+4;Notebook;Intel Core i7 6500U 2.5GHz;6;HP;15-AC110nv (i7-6500U/6GB/1TB/Radeon;Windows 10;31986,006;6;15.6 col - 1366x768;1TB HDD
+4;Notebook;Intel Celeron Dual Core N3050 1.6GHz;3;Asus;X553SA-XX031T (N3050/4GB/500GB/W10);Windows 10;15448,7385;4;15.6 col - 1366x768;500GB HDD
