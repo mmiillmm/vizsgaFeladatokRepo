@@ -1,0 +1,14 @@
+C:\Users\mkris\source\repos\RealEstate\RealEstate\bin\Debug\net8.0\RealEstate.exe
+C:\Users\mkris\source\repos\RealEstate\RealEstate\bin\Debug\net8.0\RealEstate.deps.json
+C:\Users\mkris\source\repos\RealEstate\RealEstate\bin\Debug\net8.0\RealEstate.runtimeconfig.json
+C:\Users\mkris\source\repos\RealEstate\RealEstate\bin\Debug\net8.0\RealEstate.dll
+C:\Users\mkris\source\repos\RealEstate\RealEstate\bin\Debug\net8.0\RealEstate.pdb
+C:\Users\mkris\source\repos\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkris\source\repos\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.AssemblyInfoInputs.cache
+C:\Users\mkris\source\repos\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.AssemblyInfo.cs
+C:\Users\mkris\source\repos\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.csproj.CoreCompileInputs.cache
+C:\Users\mkris\source\repos\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.dll
+C:\Users\mkris\source\repos\RealEstate\RealEstate\obj\Debug\net8.0\refint\RealEstate.dll
+C:\Users\mkris\source\repos\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.pdb
+C:\Users\mkris\source\repos\RealEstate\RealEstate\obj\Debug\net8.0\RealEstate.genruntimeconfig.cache
+C:\Users\mkris\source\repos\RealEstate\RealEstate\obj\Debug\net8.0\ref\RealEstate.dll

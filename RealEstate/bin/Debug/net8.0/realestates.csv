@@ -1,0 +1,72 @@
+﻿id;rooms;latlong;floors;area;description;freeOfCharge;imageUrl;createAt;sellerId;sellerName;sellerPhone;categoryId;categoryName
+1;5;47.5410485803319,19.1516419487702;1;165;;0;https://drive.google.com/file/d/1qs5XyJNnnT_meJn_qVJLwASvY1By2bVj;2021-11-17;56;Fazekas Zoltán;+36 1 9929-8217;1;ház
+2;5;47.4010485803319,19.1536419487702;3;145;;1;https://drive.google.com/file/d/1rxOCx-iRm2I92A1KranthDq86tdM4MQi;2021-10-13;16;Marok Nyikolaj;+36 1 8139-4405;1;ház
+3;5;47.5760485803319,19.1616419487702;4;150;;1;https://drive.google.com/file/d/1sYbvNK4_SKKq2zOIDW53lm8HCXqF7woO;2022-01-19;61;Bur Kolos;+36 1 3652-1187;1;ház
+6;5;47.4210485803319,18.9906419487702;1;150;;0;https://drive.google.com/file/d/1sVIIeO80kpKhkPS3o4bk7k64_x3qMfkJ;2021-10-05;213;Godz Ila;+36 1 1976-3679;1;ház
+11;2;47.4200485803319,19.0646419487702;2;65;;1;https://drive.google.com/file/d/1rNXGW2H7LG2RFcEOfIpyTP9_lFVV1NZ2;2022-02-01;123;Ápry Lisa;+36 1 8413-6094;1;ház
+16;4;47.5410485803319,19.0886419487702;4;145;;1;https://drive.google.com/file/d/1qdU5ynDGGx6Exc9s8oE6dfCJ1LMOx6EM;2021-10-05;312;Bacskai Mihály;+36 1 4996-5351;1;ház
+17;5;47.3950485803319,19.1196419487702;3;180;;1;https://drive.google.com/file/d/1sDgl74Aj76rzTPwLuLL3OGVwcjZy9XX-;2021-11-19;10;Rekurz Iván;+36 1 3973-7021;1;ház
+18;3;47.3980485803319,19.0206419487702;2;90;;1;https://drive.google.com/file/d/1q_gGeRN1CifVp1wQ_QWksnn5BAKbVOSn;2022-02-03;24;Fer Enci;+36 1 6920-6507;1;ház
+19;5;47.5710485803319,19.1526419487702;4;140;;1;https://drive.google.com/file/d/1seI-0QF6m_LHj6dwm4gJ390EdfHZIPBM;2022-02-02;46;Némethy Zsófia;+36 1 3494-2935;1;ház
+20;1;47.5360485803319,19.1466419487702;2;40;;1;https://drive.google.com/file/d/1slR5WaRshT0uAx2jyvXOj-JshuFACGSi;2022-01-25;85;Kecskés Dániel Tamás;+36 1 1388-4882;1;ház
+22;5;47.5050485803319,19.1416419487702;1;150;;1;https://drive.google.com/file/d/1sorJiEJkSPZE7bdr8ObTEEZqMtyg1kpe;2021-10-18;48;Nagy Ádám;+36 1 4504-5595;1;ház
+23;2;47.4110485803319,19.0116419487702;2;55;;1;https://drive.google.com/file/d/1rSdEEX2eBfO157pbSlA3O6Fq1Q0CfH7Q;2021-12-05;6;Szikla Szilárd;+36 1 8618-6027;1;ház
+24;5;47.5380485803319,19.1786419487702;1;165;;1;https://drive.google.com/file/d/1q_gGeRN1CifVp1wQ_QWksnn5BAKbVOSn;2021-12-13;82;Leskó András;+36 1 5240-3808;1;ház
+25;5;47.4720485803319,19.1716419487702;1;240;;1;https://drive.google.com/file/d/1rFdK0gc1KV12RBj2av3sh4TpIDrLdtDx;2021-11-17;157;Bán Tamás;+36 1 9446-6211;1;ház
+27;2;47.5200485803319,19.1616419487702;3;45;;1;https://drive.google.com/file/d/1sufiVE60JmFdEsRQbE3pUeAM2pCM6aX5;2021-12-06;275;Furi Kázmér;+36 1 9919-6448;1;ház
+28;5;47.5440485803319,19.0456419487702;3;110;;1;https://drive.google.com/file/d/1rgvC9WGdtVcp-sJH-DJbp7HV_33c-X7U;2021-09-29;282;Bali Alexandra Mercédesz;+36 1 1575-7660;1;ház
+30;3;47.4340485803319,19.1796419487702;0;100;;1;https://drive.google.com/file/d/1sBPbyW84_qCKwHoVf313Bl-LENLnr3J-;2022-01-10;321;Pataki Vince;+36 1 7294-6572;1;ház
+33;5;47.4700485803319,19.0176419487702;0;210;;1;https://drive.google.com/file/d/1qv3b7t3yLkV9HF5TzbyY_-MKaft83bAB;2022-01-13;111;Kovács Adrienn;+36 1 7174-6885;1;ház
+34;4;47.4410485803319,19.1626419487702;1;90;;1;https://drive.google.com/file/d/1sVT8P2AqtfmroUv5Y0oRGPMKeUiCO3UO;2021-12-23;266;Nemoda Tamás;+36 1 6726-8470;1;ház
+38;5;47.5110485803319,19.1536419487702;1;155;;1;https://drive.google.com/file/d/1rLu0j76uj4_2wLjun2BPuOoegExBTsyL;2022-02-04;175;Nyomo Réka;+36 1 7718-7901;1;ház
+39;4;47.3910485803319,18.9876419487702;0;125;;1;https://drive.google.com/file/d/1rnDfcOTchNAcjLxLU3x_f7uFliFibtVG;2021-10-27;244;Ér Emma;+36 1 1414-4563;1;ház
+40;3;47.4660485803319,19.1336419487702;0;80;;1;https://drive.google.com/file/d/1qgRV5wlPh0XiUcx9H5kvKHQ2pTEspk1m;2021-10-13;22;Garabuczi Laura;+36 1 1672-9525;1;ház
+41;1;47.4650485803319,19.0146419487702;1;45;;1;https://drive.google.com/file/d/1sVIIeO80kpKhkPS3o4bk7k64_x3qMfkJ;2022-01-12;226;Szabó Sandra;+36 1 1698-5971;1;ház
+42;3;47.5600485803319,19.1096419487702;2;95;;1;https://drive.google.com/file/d/1sCQxE2fZVvogzkiqI0Sk8ylVLNOhoza0;2021-11-12;299;Lakatos Emese;+36 1 7708-3203;1;ház
+46;5;47.5800485803319,19.1496419487702;1;185;;1;https://drive.google.com/file/d/1rSdEEX2eBfO157pbSlA3O6Fq1Q0CfH7Q;2022-02-10;96;Bekre Pál;+36 1 5895-6043;1;ház
+47;5;47.3970485803319,19.1376419487702;4;165;;0;https://drive.google.com/file/d/1sB_tjZ8W_oqxygBg2AwHFNnCCKZOr_V5;2022-01-31;178;Mursa Krisztián;+36 1 4450-7684;1;ház
+48;3;47.5240485803319,19.1266419487702;1;75;;1;https://drive.google.com/file/d/1sUkVjCwzMkqKEDrVivtbFTJ0AE6eW-7Z;2021-12-24;43;Radnóthy Péter Attila;+36 1 3679-6064;1;ház
+51;1;47.4600485803319,19.0896419487702;2;45;;1;https://drive.google.com/file/d/1sDgl74Aj76rzTPwLuLL3OGVwcjZy9XX-;2022-02-14;370;Demeter Anna;+36 1 2672-9935;1;ház
+52;5;47.5540485803319,19.1146419487702;1;225;;1;https://drive.google.com/file/d/1rj4uO_Ewmhir-7A0IHQBOVuK9-Ef3Dyk;2021-11-26;373;Bõrönd Ödön;+36 1 2709-2407;1;ház
+54;2;47.5020485803319,19.1836419487702;1;65;;1;https://drive.google.com/file/d/1rqCETMo582rAUZd2DheACBDpjuICGNkO;2022-02-17;250;Bernát Csilla;+36 1 8180-8416;1;ház
+55;2;47.4290485803319,19.1746419487702;0;75;;1;https://drive.google.com/file/d/1snpSjKUDvZUs9XI89qVb4hhMGcaY_v_z;2021-12-26;300;Kana Péter;+36 1 4350-5709;1;ház
+56;2;47.5390485803319,19.1086419487702;2;75;;1;https://drive.google.com/file/d/1qh0nIM1Gn0zrO6Wkmf7iYxcYKKKPZszZ;2022-01-26;249;Bíró Olívia;+36 1 9189-6594;1;ház
+57;3;47.4570485803319,19.0696419487702;1;65;;0;https://drive.google.com/file/d/1s_YB3Iz9rrM3dWAHePHV3OlseaU_rlKX;2021-10-14;372;Budipa Piroska;+36 1 4439-9700;1;ház
+58;1;47.4840485803319,18.9946419487702;0;45;;1;https://drive.google.com/file/d/1swKq40hxXuUHgoliyFACANGoHmtBvVIt;2021-11-03;3;Veg Eta;+36 1 8434-6191;1;ház
+59;5;47.4850485803319,19.0206419487702;1;185;;1;https://drive.google.com/file/d/1swKq40hxXuUHgoliyFACANGoHmtBvVIt;2021-10-09;222;Tóth Zsuzsa;+36 1 3720-8653;1;ház
+60;5;47.3930485803319,19.0836419487702;3;140;;1;https://drive.google.com/file/d/1rgvC9WGdtVcp-sJH-DJbp7HV_33c-X7U;2021-11-12;60;Dalos Ákos Mihály;+36 1 9950-1575;1;ház
+61;3;47.4010485803319,19.0996419487702;0;100;;1;https://drive.google.com/file/d/1sP08aDIxy2VOkzyLIQeOopGANtSY1ywM;2021-12-12;203;Papp Beáta;+36 1 1382-1376;1;ház
+63;5;47.5760485803319,19.0276419487702;0;160;;1;https://drive.google.com/file/d/1sBPbyW84_qCKwHoVf313Bl-LENLnr3J-;2021-12-14;50;Maár Tamás;+36 1 7606-9208;1;ház
+66;5;47.5270485803319,19.1286419487702;3;145;;1;https://drive.google.com/file/d/1rEbvjvUN8QwZ0hAzVvewt8gS1DdIsSWY;2021-11-25;143;Lizák Gerhard;+36 1 3227-3795;1;ház
+67;5;47.4820485803319,19.1526419487702;0;145;;1;https://drive.google.com/file/d/1rqxx7t4OdVFJ5th8b23TWKW62NZzSc9f;2022-02-25;92;Gáti Orsolya;+36 1 3378-6077;1;ház
+69;5;47.5760485803319,19.0926419487702;4;160;;1;https://drive.google.com/file/d/1sUkVjCwzMkqKEDrVivtbFTJ0AE6eW-7Z;2021-11-20;102;Szûcs Nikolett;+36 1 5433-2908;1;ház
+70;4;47.4860485803319,19.1556419487702;3;105;;1;https://drive.google.com/file/d/1rbBxI6RDTO6JWAO_c1gu8r8NE1aVoHCs;2021-10-30;204;Ösztön Ödön;+36 1 3078-1467;1;ház
+9;5;47.5430485803319,19.1646419487702;2;165;;1;https://drive.google.com/file/d/1rj4uO_Ewmhir-7A0IHQBOVuK9-Ef3Dyk;2022-02-09;168;Resz Elek;+36 1 1399-2527;2;lakás
+31;3;47.4890485803319,19.0326419487702;1;85;;1;https://drive.google.com/file/d/1slR5WaRshT0uAx2jyvXOj-JshuFACGSi;2021-11-11;345;Aloe Vera;+36 1 5072-4171;2;lakás
+36;5;47.5810485803319,19.1796419487702;4;175;;1;https://drive.google.com/file/d/1qc74gm94OAzCf8SlGit-B157YL8sKEH0;2021-10-14;156;Béres Tamás;+36 1 1818-4840;2;lakás
+62;4;47.5370485803319,19.1796419487702;2;110;;1;https://drive.google.com/file/d/1qxYVWfF2lYDK070FBGvr44BXPZQmtz3d;2021-12-16;221;Vágó Péter Ákos;+36 1 4643-1788;2;lakás
+68;5;47.5430485803319,19.1536419487702;2;190;;0;https://drive.google.com/file/d/1rG7cVUhJxLq6GKgP9KFKLabGH2obu5b5;2021-10-07;173;Pár Zoltán;+36 1 3798-6794;2;lakás
+71;2;47.4050485803319,19.0356419487702;1;60;;1;https://drive.google.com/file/d/1rEbvjvUN8QwZ0hAzVvewt8gS1DdIsSWY;2022-01-05;23;Fogd Bea;+36 1 4725-2442;2;lakás
+7;5;47.5390485803319,19.0136419487702;0;230;;1;https://drive.google.com/file/d/1qujuTrxsUNZ7z0Y9fobfUhgHGCwyggo8;2022-02-20;281;Dancs Dániel;+36 1 2541-3669;3;építési telek
+15;2;47.5220485803319,19.1416419487702;4;60;;1;https://drive.google.com/file/d/1rj4uO_Ewmhir-7A0IHQBOVuK9-Ef3Dyk;2021-10-28;373;Bõrönd Ödön;+36 1 2709-2407;3;építési telek
+45;5;47.5440485803319,19.0476419487702;1;145;;1;https://drive.google.com/file/d/1rNXGW2H7LG2RFcEOfIpyTP9_lFVV1NZ2;2022-01-17;9;Rontó Pál;+36 1 5941-3954;3;építési telek
+65;5;47.4260485803319,19.0846419487702;2;180;;1;https://drive.google.com/file/d/1rqxx7t4OdVFJ5th8b23TWKW62NZzSc9f;2021-12-23;183;Korpusz Ilma;+36 1 6751-6005;3;építési telek
+4;5;47.5600485803319,19.0686419487702;1;135;;1;https://drive.google.com/file/d/1she2wd47cp-DPolEjDksz4tkNwT0hova;2021-10-31;238;Kolle Gina;+36 1 9907-6155;4;garázs
+5;5;47.4350485803319,19.1076419487702;1;135;;1;https://drive.google.com/file/d/1r9JPKeAX6BQ7fF-0fHrNqsTrr8D9JPEw;2021-12-29;40;Róka Gábor;+36 1 2729-9902;4;garázs
+8;5;47.5340485803319,19.0216419487702;0;185;;1;https://drive.google.com/file/d/1suSusCdzSM4qKinfhEYdAV0cUw64oefz;2021-12-07;124;Amor Ella;+36 1 6978-7676;4;garázs
+10;5;47.4100485803319,18.9876419487702;1;205;;1;https://drive.google.com/file/d/1sufiVE60JmFdEsRQbE3pUeAM2pCM6aX5;2021-10-13;346;Vagd Alma;+36 1 7446-5220;4;garázs
+12;5;47.5010485803319,19.0936419487702;0;195;;1;https://drive.google.com/file/d/1sVT8P2AqtfmroUv5Y0oRGPMKeUiCO3UO;2021-10-19;222;Tóth Zsuzsa;+36 1 3720-8653;4;garázs
+13;5;47.4770485803319,18.9996419487702;2;180;;1;https://drive.google.com/file/d/1qh0nIM1Gn0zrO6Wkmf7iYxcYKKKPZszZ;2021-10-11;374;Bac Ilus;+36 1 1301-2730;4;garázs
+21;4;47.5670485803319,19.1376419487702;3;80;;1;https://drive.google.com/file/d/1rYClD3Gx9y3YUkdh0rPEcRhYzku7C8Da;2021-12-12;308;Egyenes Ági;+36 1 1780-7112;4;garázs
+26;4;47.4880485803319,18.9906419487702;1;120;;1;https://drive.google.com/file/d/1qc74gm94OAzCf8SlGit-B157YL8sKEH0;2021-12-12;144;Lev Elek;+36 1 2451-9808;4;garázs
+32;3;47.5170485803319,19.1596419487702;3;85;;1;https://drive.google.com/file/d/1qv3b7t3yLkV9HF5TzbyY_-MKaft83bAB;2021-11-27;317;Török Szilárd;+36 1 3603-9947;4;garázs
+35;5;47.5390485803319,18.9916419487702;1;150;;1;https://drive.google.com/file/d/1rxOCx-iRm2I92A1KranthDq86tdM4MQi;2022-02-25;103;Szolnoki Anna;+36 1 4163-7869;4;garázs
+37;5;47.5750485803319,19.1116419487702;0;180;;1;https://drive.google.com/file/d/1rEbvjvUN8QwZ0hAzVvewt8gS1DdIsSWY;2021-11-01;178;Mursa Krisztián;+36 1 4450-7684;4;garázs
+43;5;47.5330485803319,19.0036419487702;0;225;;1;https://drive.google.com/file/d/1qujuTrxsUNZ7z0Y9fobfUhgHGCwyggo8;2021-11-14;313;Ádám Ákos Lajos;+36 1 9163-7120;4;garázs
+44;5;47.4640485803319,19.1346419487702;3;165;;1;https://drive.google.com/file/d/1sDgl74Aj76rzTPwLuLL3OGVwcjZy9XX-;2021-11-16;320;Potornai Judit Adrienn;+36 1 2827-9828;4;garázs
+49;5;47.5440485803319,19.1476419487702;4;220;;1;https://drive.google.com/file/d/1qro_stZpSbux9oLeFT6xh8qF5m0cPmSS;2022-01-04;14;Nagy Adrienn;+36 1 9912-8987;4;garázs
+50;5;47.4740485803319,19.0256419487702;2;140;;1;https://drive.google.com/file/d/1rfIBFPxBf_TgWERMh-OqVmpFnDxpo6rn;2022-01-10;54;Hegedûs Adrienn;+36 1 6078-6520;4;garázs
+53;5;47.4830485803319,19.1246419487702;4;175;;1;https://drive.google.com/file/d/1sBPbyW84_qCKwHoVf313Bl-LENLnr3J-;2021-10-01;236;Mod Emma;+36 1 1239-2839;4;garázs
+64;5;47.4350485803319,19.1736419487702;2;110;;1;https://drive.google.com/file/d/1q_gGeRN1CifVp1wQ_QWksnn5BAKbVOSn;2022-02-11;231;Pataki Bálint;+36 1 9998-4893;4;garázs
+14;5;47.4860485803319,19.0306419487702;4;135;;1;https://drive.google.com/file/d/1rxOCx-iRm2I92A1KranthDq86tdM4MQi;2022-01-29;271;Huczman Gergely;+36 1 2819-2249;5;mezőgazdasági terület
+29;5;47.4310485803319,19.0226419487702;4;120;;1;https://drive.google.com/file/d/1rjna1tKJSuawRjq_8oMDl_BMe-VZ1RGp;2021-11-24;254;Trab Antal;+36 1 8970-1364;6;ipari ingatlan
