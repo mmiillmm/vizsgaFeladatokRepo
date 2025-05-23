@@ -1,0 +1,14 @@
+C:\Users\mkris\source\repos\tehenek\tehenek\bin\Debug\net8.0\tehenek.exe
+C:\Users\mkris\source\repos\tehenek\tehenek\bin\Debug\net8.0\tehenek.deps.json
+C:\Users\mkris\source\repos\tehenek\tehenek\bin\Debug\net8.0\tehenek.runtimeconfig.json
+C:\Users\mkris\source\repos\tehenek\tehenek\bin\Debug\net8.0\tehenek.dll
+C:\Users\mkris\source\repos\tehenek\tehenek\bin\Debug\net8.0\tehenek.pdb
+C:\Users\mkris\source\repos\tehenek\tehenek\obj\Debug\net8.0\tehenek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkris\source\repos\tehenek\tehenek\obj\Debug\net8.0\tehenek.AssemblyInfoInputs.cache
+C:\Users\mkris\source\repos\tehenek\tehenek\obj\Debug\net8.0\tehenek.AssemblyInfo.cs
+C:\Users\mkris\source\repos\tehenek\tehenek\obj\Debug\net8.0\tehenek.csproj.CoreCompileInputs.cache
+C:\Users\mkris\source\repos\tehenek\tehenek\obj\Debug\net8.0\tehenek.dll
+C:\Users\mkris\source\repos\tehenek\tehenek\obj\Debug\net8.0\refint\tehenek.dll
+C:\Users\mkris\source\repos\tehenek\tehenek\obj\Debug\net8.0\tehenek.pdb
+C:\Users\mkris\source\repos\tehenek\tehenek\obj\Debug\net8.0\tehenek.genruntimeconfig.cache
+C:\Users\mkris\source\repos\tehenek\tehenek\obj\Debug\net8.0\ref\tehenek.dll
