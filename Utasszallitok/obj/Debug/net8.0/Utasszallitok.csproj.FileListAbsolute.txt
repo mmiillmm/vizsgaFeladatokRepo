@@ -1,0 +1,14 @@
+C:\Users\mkris\source\repos\Utasszallitok\Utasszallitok\bin\Debug\net8.0\Utasszallitok.exe
+C:\Users\mkris\source\repos\Utasszallitok\Utasszallitok\bin\Debug\net8.0\Utasszallitok.deps.json
+C:\Users\mkris\source\repos\Utasszallitok\Utasszallitok\bin\Debug\net8.0\Utasszallitok.runtimeconfig.json
+C:\Users\mkris\source\repos\Utasszallitok\Utasszallitok\bin\Debug\net8.0\Utasszallitok.dll
+C:\Users\mkris\source\repos\Utasszallitok\Utasszallitok\bin\Debug\net8.0\Utasszallitok.pdb
+C:\Users\mkris\source\repos\Utasszallitok\Utasszallitok\obj\Debug\net8.0\Utasszallitok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkris\source\repos\Utasszallitok\Utasszallitok\obj\Debug\net8.0\Utasszallitok.AssemblyInfoInputs.cache
+C:\Users\mkris\source\repos\Utasszallitok\Utasszallitok\obj\Debug\net8.0\Utasszallitok.AssemblyInfo.cs
+C:\Users\mkris\source\repos\Utasszallitok\Utasszallitok\obj\Debug\net8.0\Utasszallitok.csproj.CoreCompileInputs.cache
+C:\Users\mkris\source\repos\Utasszallitok\Utasszallitok\obj\Debug\net8.0\Utasszallitok.dll
+C:\Users\mkris\source\repos\Utasszallitok\Utasszallitok\obj\Debug\net8.0\refint\Utasszallitok.dll
+C:\Users\mkris\source\repos\Utasszallitok\Utasszallitok\obj\Debug\net8.0\Utasszallitok.pdb
+C:\Users\mkris\source\repos\Utasszallitok\Utasszallitok\obj\Debug\net8.0\Utasszallitok.genruntimeconfig.cache
+C:\Users\mkris\source\repos\Utasszallitok\Utasszallitok\obj\Debug\net8.0\ref\Utasszallitok.dll
