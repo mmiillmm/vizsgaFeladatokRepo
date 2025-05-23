@@ -1,0 +1,33 @@
+﻿<Window x:Class="UtasszallitokGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UtasszallitokGUI"
+        mc:Ignorable="d"
+        Title="Mach-szám kalkulátor" Height="400" Width="400">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Torlónyomás:" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center"/>
+        <TextBox x:Name="txtQc" Grid.Row="0" Grid.Column="1" Margin="5"/>
+
+        <Label Content="Statikus nyomás:" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center"/>
+        <TextBox x:Name="txtP0" Grid.Row="1" Grid.Column="1" Margin="5"/>
+
+        <Button x:Name="btnCalculate" Content="Számol" Grid.Row="0" Grid.Column="2" Grid.RowSpan="2" Margin="5" Width="75" Click="btnCalculate_Click"/>
+
+        <Label Content="Eredmények:" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" Margin="0,10,0,0"/>
+        <ListBox x:Name="lstResults" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="3" Margin="0,5,0,0"/>
+    </Grid>
+</Window>
