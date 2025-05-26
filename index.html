@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="hu" ng-app="ProductApp">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Termékkatalógus</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body ng-controller="ProductController">
+
+    <h1>Termékkatalógus</h1>
+
+    <div ng-if="error" class="error">
+        {{ errorMessage }}
+    </div>
+
+    <table ng-if="!error">
+        <thead>
+            <tr>
+                <th>Kép</th>
+                <th>Név</th>
+                <th>Leírás</th>
+                <th>Ár (Ft)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="product in products">
+                <td>
+                    <img ng-src="img/{{ product.image_name }}" alt="{{ product.name }}"
+                        onerror="this.onerror=null;this.src='img/default.jpg';">
+                </td>
+                <td>{{ product.name }}</td>
+                <td>{{ product.description }}</td>
+                <td>{{ product.price | currency:'':0 }} Ft</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <script>
+        angular.module('ProductApp', [])
+            .controller('ProductController', function ($scope, $http) {
+                $scope.products = [];
+                $scope.error = false;
+
+                $http.get('product.json')
+                    .then(function (response) {
+                        $scope.products = response.data.data;
+                    })
+                    .catch(function (error) {
+                        $scope.error = true;
+                        $scope.errorMessage = "Nem sikerült beolvasni a termékeket.";
+                    });
+            });
+    </script>
+</body>
+
+</html>

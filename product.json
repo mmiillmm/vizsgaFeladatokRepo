@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": "1",
+            "name": "Mountain Bike",
+            "description": "A durable bike perfect for off-road trails and rough terrain.",
+            "price": "499.99",
+            "image_name": "mountain_bike.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Smartphone",
+            "description": "A high-end smartphone with a sleek design and powerful features.",
+            "price": "899.99",
+            "image_name": "smartphone.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Coffee Maker",
+            "description": "Brew your perfect cup of coffee with this advanced coffee maker.",
+            "price": "79.99",
+            "image_name": "coffee_maker.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Gaming Laptop",
+            "description": "A powerful laptop designed for gamers and heavy-duty tasks.",
+            "price": "1499.99",
+            "image_name": "gaming_laptop.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Wireless Headphones",
+            "description": "Noise-cancelling headphones with crystal-clear sound.",
+            "price": "199.99",
+            "image_name": "wireless_headphones.jpg"
+        }
+    ]
+}
+

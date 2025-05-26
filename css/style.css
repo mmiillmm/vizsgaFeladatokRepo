@@ -1,0 +1,70 @@
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 2rem;
+    }
+
+    th, td {
+        padding: 1rem;
+        text-align: left;
+        border: 1px solid #dee2e6;
+        vertical-align: middle;
+    }
+
+    th {
+        background-color: #f8f9fa;
+        font-weight: bold;
+    }
+
+    img {
+        max-width: 200px;
+        height: auto;
+    }
+
+    img.product-image {
+        width: 100px;
+        height: auto;
+        object-fit: cover;
+        border-radius: 0.5rem;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .table-container {
+        max-width: 1200px;
+        margin: auto;
+    }
+
+    .error-message {
+        color: red;
+        text-align: center;
+        margin-top: 1rem;
+        font-weight: bold;
+    }
+
+    @media (max-width: 768px) {
+        table, thead, tbody, th, td, tr {
+            display: block;
+        }
+
+        thead tr {
+            display: none;
+        }
+
+        td {
+            position: relative;
+            padding-left: 50%;
+            border: none;
+            border-bottom: 1px solid #dee2e6;
+        }
+
+        td::before {
+            content: attr(data-label);
+            position: absolute;
+            left: 1rem;
+            font-weight: bold;
+        }
+
+        img.product-image {
+            width: 80px;
+        }
+    }
