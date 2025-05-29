@@ -1,12 +1,16 @@
 
 #  Haiii!
 
-  
+
 
 Ha gyakorolsz a feladatokra, vagy szeretnéd a gyakorló feladatok megoldását, akkor kérlek használd ezt a repót.
 
 Ha pedig van olyan feladat, amit te megoldottál, de nem látod itt, kérlek készíts egy új branchet és töltsd fel oda!
-  
+
+#  Laravel API 101 Kevin részéről:
+
+https://github.com/ArpKevin/lara_api_gyorstalpi  
+
 #  Feladatok feltöltése
 
 Ha valaki nem tudná, hogy hogyan kell, itt egy step-by-step tutorial **Git Bash** használatával:
