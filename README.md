@@ -7,9 +7,13 @@ Ha gyakorolsz a feladatokra, vagy szeretnéd a gyakorló feladatok megoldását,
 
 Ha pedig van olyan feladat, amit te megoldottál, de nem látod itt, kérlek készíts egy új branchet és töltsd fel oda!
 
-#  Laravel API 101 Kevin részéről:
+#  Laravel API 101 by Kevin:
 
 https://github.com/ArpKevin/lara_api_gyorstalpi  
+
+#  ASP.NET REST API 101 by Juhász tanár úr :3 🦆
+
+https://github.com/JuhaszZoltan/API250416
 
 #  Feladatok feltöltése
 
